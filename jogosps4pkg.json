@@ -1,229 +1,186 @@
 {
   "DATA": {
-    "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/BASE/UP4497-CUSA16596_00-0000000000000004_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Cyberpunk 2077: DUB.LEG PT-BR",
-      "version": "01.61",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png"
+    "Assassin's Creed Unity": {
+      "title_id": "CUSA00605",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/BASE/EP0001-CUSA00605_00-AC5GAMEPS4000001_BASE_00.pkg",
+        "version": "01.05",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP0001/CUSA00663_00/arnlFWX6Y6ZlGyCCYWmth94Shtw44kON.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/UPDATE/1.05/EP0001-CUSA00605_00-AC5GAMEPS4000001_UPD_00.pkg",
+        "version": "1.05"
+      }
     },
-    "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/BASE/EP9000-CUSA09175_00-DAYSGONECOMPLETE_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Dias Passados: DUB.LEG PT-BR",
-      "version": "01.84",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png"
+    "Call of Duty: Modern Warfare III": {
+      "title_id": "CUSA23827",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002 -CUSA23827_00-COREGAME00000001.pkg",
+        "version": "01.33",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
+      },
+      "update": {
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_00.pkg",
+        "version": "1.33"
+      }
     },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/BASE/UP9000-CUSA07408_00-00000000GODOFWAR_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Deus da Guerra: DUB.LEG PT-BR",
-      "version": "01.35",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
+    "Call of Duty: Vanguard": {
+      "title_id": "CUSA24041",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/BASE/UP0002-CUSA24041_00-CODVTHEGAME00001_BASE_00.pkg",
+        "version": "01.26",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202109/2218/JelPN9rNJfDtoQJTwDsa0deG.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/UPDATE/1.26/UP0002-CUSA24041_00-CODVTHEGAME00001_UPD_00.pkg",
+        "version": "1.26"
+      }
     },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/BASE/UP9000-CUSA34384_00-GOWRAGNAROK00000_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Deus da Guerra Ragnarök: DUB.LEG PT-BR",
-      "version": "06.05",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png"
+    "Cyberpunk 2077": {
+      "title_id": "CUSA16596",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/BASE/UP4497-CUSA16596_00-0000000000000004_BASE_00.pkg",
+        "version": "01.61",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/UPDATE/1.61/UP4497-CUSA16596_00-0000000000000004_UPD_00.pkg",
+        "version": "1.61"
+      }
     },
-    "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/BASE/UP0700-CUSA28863_00-ELDENRING0000000_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Elden Ring: DUB.LEG PT-BR",
-      "version": "01.22",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png"
+    "God of War": {
+      "title_id": "CUSA07408",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/BASE/UP9000-CUSA07408_00-00000000GODOFWAR_BASE_00.pkg",
+        "version": "01.35",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/UPDATE/1.35/UP9000-CUSA07408_00-00000000GODOFWAR_UPD_00.pkg",
+        "version": "1.35"
+      }
     },
-    "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/BASE/UP0006-CUSA52342_00-EASPORTSFC2026BG_BASE_00.pkg": {
-      "region": "USA",
-      "name": "EA Sports FC 26: DUB.LEG PT-BR",
-      "version": "01.13",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/2e757ffb0a6bb4b91af84db64e0183d725e56e5354f45eba.png"
+    "God of War Ragnarök": {
+      "title_id": "CUSA34384",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/BASE/UP9000-CUSA34384_00-GOWRAGNAROK00000_BASE_00.pkg",
+        "version": "06.05",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/UPDATE/6.05/UP9000-CUSA34384_00-GOWRAGNAROK00000_UPD_00.pkg",
+        "version": "6.05"
+      }
     },
-    "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Fantasma de Tsushima: DUB.LEG PT-BR",
-      "version": "01.06",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1c.png"
+    "Days Gone": {
+      "title_id": "CUSA09175",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/BASE/EP9000-CUSA09175_00-DAYSGONECOMPLETE_BASE_00.pkg",
+        "version": "01.84",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1204/wYL4v2r8uMQFvVTJlfuj8ICk.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/UPDATE/1.84/EP9000-CUSA09175_00-DAYSGONECOMPLETE_UPD_00.pkg",
+        "version": "1.84"
+      }
     },
-    "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/BASE/UP1003-CUSA03448_00-FALLOUT4FULGLAME_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Fallout 4: DUB.LEG PT-BR",
-      "version": "01.37",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/cdn/UP1003/CUSA02557_00/j4PdxSxO3optsrP1SxnAqdq6qCmYPd9x.png"
+    "EA Sports FC 26": {
+      "title_id": "CUSA52342",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/BASE/UP0006-CUSA52342_00-EASPORTSFC2026BG_BASE_00.pkg",
+        "version": "01.13",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202507/1617/2e757ffb0a6bb4b91af84db64e0183d725e56e5354f45eba.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/UPDATE/1.13/UP0006-CUSA52342_00-EASPORTSFC2026BG_UPD_00.pkg",
+        "version": "1.13"
+      }
     },
-    "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/BASE/EP0001-CUSA00462_00-FC4GAMEPS4000001_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Far Cry 4: DUB.LEG PT-BR",
-      "version": "01.08",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/cdn/UP0001/CUSA00496_00/zfviJfMx8AXG0BVq9iObe9dUhXzcXfAh.png"
+    "Elden Ring": {
+      "title_id": "CUSA28863",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/BASE/UP0700-CUSA28863_00-ELDENRING0000000_BASE_00.pkg",
+        "version": "01.22",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0410/0Jz6uJLxOK7JOMMfcfHFBi1D.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/UPDATE/1.22/UP0700-CUSA28863_00-ELDENRING0000000_UPD_00.pkg",
+        "version": "1.22"
+      }
     },
-    "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_0.pkg": {
-      "region": "USA",
-      "name": "Guerra Mundial Z: DUB.LEG PT-BR",
-      "version": "01.69",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/89rH1uefHnZ1XLyenTbgHTNCs1CYTxxu.png"
+    "Fallout 4": {
+      "title_id": "CUSA03448",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/BASE/UP1003-CUSA03448_00-FALLOUT4FULGLAME_BASE_00.pkg",
+        "version": "01.37",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP1003/CUSA02557_00/j4PdxSxO3optsrP1SxnAqdq6qCmYPd9x.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/UPDATE/1.37/UP1003-CUSA03448_00-FALLOUT4FULGLAME_UPD_00.pkg",
+        "version": "1.37"
+      }
     },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/BASE/UP9000-CUSA17722_00-MARVELSSMMORALES_BASE.pkg": {
-      "region": "USA",
-      "name": "Homem-Aranha da Marvel: Miles Morales: DUB.LEG PT-BR",
-      "version": "01.14",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
+    "Ghost of Tsushima": {
+      "title_id": "CUSA11456",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_00.pkg",
+        "version": "01.06",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1c.png"
+      },
+      "update": {
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/UPDATE/2.24/UP9000-CUSA11456_00-GHOSTSHIP0000000_UPD_00.pkg",
+        "version": "2.24"
+      }
     },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/BASE/UP9000-CUSA02299_00-MARVELSSPIDERMAN_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Marvel's Spider-Man: Edição Jogo do Ano: DUB.LEG PT-BR",
-      "version": "01.19",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png"
+    "Far Cry 4": {
+      "title_id": "CUSA00462",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/BASE/EP0001-CUSA00462_00-FC4GAMEPS4000001_BASE_00.pkg",
+        "version": "01.08",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP0001/CUSA00496_00/zfviJfMx8AXG0BVq9iObe9dUhXzcXfAh.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/UPDATE/1.08/EP0001-CUSA00462_00-FC4GAMEPS4000001_UPD_00.pkg",
+        "version": "1.08"
+      }
     },
-    "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/BASE/UP0700-CUSA06381_00-NARUTOUNS4RTB000_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Naruto Shippuden: Ultimate Ninja Storm 4 - Rumo a Boruto: DUB.LEG PT-BR",
-      "version": "01.05",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/cdn/UP0700/CUSA06381_00/leBwhHZ307kxd3oaMKAKRnGRa2TimjcK.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/BASE/UP1018-CUSA12824_00-HOGWARTSLEGACY01_BASE_00.pkg": {
-      "region": "USA",
-      "name": "O Legado de Hogwarts: DUB.LEG PT-BR",
-      "version": "01.05",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
-    },
-    "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/BASE/EP1004-CUSA36843_00-REDEMPTION000001_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Red Dead Redemption: DUB.LEG PT-BR",
-      "version": "01.04",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1414/10231d67c21c96ffa98c728fc255dd7b8965c12c44e4feec.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/BASE/UP1004-CUSA03041_00-REDEMPTION000002_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Red Dead Redemption 2: DUB.LEG PT-BR",
-      "version": "01.32",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/BASE/UP0102-CUSA33387_00-RE4RMAINGAME0000_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Resident Evil 4: Remake: DUB.LEG PT-BR",
-      "version": "01.11",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Sekiro™: As sombras morrem duas vezes: DUB.LEG PT-BR",
-      "version": "01.06",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/BASE/UP0006-CUSA33778_00-APPLEJACKGAME000_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Star Wars Jedi: Sobrevivente: DUB.LEG PT-BR",
-      "version": "01.03",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/47becbe467e18575f71429abbaec9af707865744b825f34d.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/BASE/UP9000-CUSA07820_00-THELASTOFUSPART2_BASE_00.pkg": {
-      "region": "USA",
-      "name": "The Last of Us Part II: DUB.LEG PT-BR",
-      "version": "01.09",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
-    },
-    "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/BASE/EP0001-CUSA00605_00-AC5GAMEPS4000001_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Assassin's Creed Unity: DUB.LEG PT-BR",
-      "version": "01.05",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/cdn/UP0001/CUSA00663_00/arnlFWX6Y6ZlGyCCYWmth94Shtw44kON.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/BASE/UP0002-CUSA24041_00-CODVTHEGAME00001_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Call of Duty: Vanguard: DUB.LEG PT-BR",
-      "version": "01.26",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202109/2218/JelPN9rNJfDtoQJTwDsa0deG.png"
-    },
-    "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002 -CUSA23827_00-COREGAME00000001.pkg": {
-      "region": "USA",
-      "name": "Call of Duty: Modern Warfare III: DUB.LEG PT-BR",
-      "version": "01.33",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
-    },
-    "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_00.pkg": {
-      "region": "USA",
-      "name": "LEGO Star Wars: A Saga Skywalker: DUB.LEG PT-BR",
-      "version": "01.09",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
-    },
-    "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/BASE/UP9000-CUSA10237_00-HRZCE00000000000_BASE_00.pkg": {
-      "region": "USA",
-      "name": "Horizon Zero Dawn: Edição Completa: DUB.LEG PT-BR",
-      "version": "01.54",
-      "release": "11-15-2013",
-      "size": 0,
-      "min_fw": null,
-      "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1018/9erXiwu0ozgKGPIUVTuy2siN.png"
+    "World War Z": {
+      "title_id": "CUSA14046",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_0.pkg",
+        "version": "01.69",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP2746/CUSA14046_00/0sdmApE8KNjQkMY5y3PFa7KJzf7MIx2K.png"
+      },
+      "update": {
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg",
+        "version": "1.69"
+      }
     }
   }
 }
