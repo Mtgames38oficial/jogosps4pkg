@@ -182,6 +182,174 @@
         "version": "1.69"
       }
     },
+    "Marvel's Spider-Man: Miles Morales": {
+      "title_id": "CUSA17722",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/BASE/UP9000-CUSA17722_00-MARVELSSMMORALES_BASE.pkg",
+        "version": "01.14",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/UPDATE/1.14/UP9000-CUSA17722_00-MARVELSSMMORALES_UPD.pkg",
+        "version": "1.14"
+      }
+    },
+    "Horizon Zero Dawn: Complete Edition": {
+      "title_id": "CUSA10237",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/BASE/UP9000-CUSA10237_00-HRZCE00000000000_BASE_00.pkg",
+        "version": "01.54",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1018/9erXiwu0ozgKGPIUVTuy2siN.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/UPDATE/1.54/UP9000-CUSA10237_00-HRZCE00000000000_UPD_00.pkg",
+        "version": "1.54"
+      }
+    },
+    "LEGO Star Wars: The Skywalker Saga": {
+      "title_id": "CUSA13794",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_00.pkg",
+        "version": "01.09",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
+      },
+      "update": {
+        "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_00.pkg",
+        "version": "1.09"
+      }
+    },
+    "Marvel's Spider-Man: Game of the Year Edition": {
+      "title_id": "CUSA02299",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/BASE/UP9000-CUSA02299_00-MARVELSSPIDERMAN_BASE_00.pkg",
+        "version": "01.19",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/UPDATE/1.19/UP9000-CUSA02299_00-MARVELSSPIDERMAN_UPD_00.pkg",
+        "version": "1.19"
+      }
+    },
+    "Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto": {
+      "title_id": "CUSA06381",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/BASE/UP0700-CUSA06381_00-NARUTOUNS4RTB000_BASE_00.pkg",
+        "version": "01.05",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP0700/CUSA06381_00/leBwhHZ307kxd3oaMKAKRnGRa2TimjcK.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/UPDATE/1.05/UP0700-CUSA06381_00-NARUTOUNS4RTB000_UPD_00.pkg",
+        "version": "1.05"
+      }
+    },
+    "Hogwarts Legacy": {
+      "title_id": "CUSA12824",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/BASE/UP1018-CUSA12824_00-HOGWARTSLEGACY01_BASE_00.pkg",
+        "version": "01.05",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/UPDATE/1.05/UP1018-CUSA12824_00-HOGWARTSLEGACY01_UPD_00.pkg",
+        "version": "1.05"
+      }
+    },
+    "Red Dead Redemption": {
+      "title_id": "CUSA36843",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/BASE/EP1004-CUSA36843_00-REDEMPTION000001_BASE_00.pkg",
+        "version": "01.04",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/f/f3/Red_Dead_Redemption_capa.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/UPDATE/1.04/EP1004-CUSA36843_00-REDEMPTION000001_UPD_00.pkg",
+        "version": "1.04"
+      }
+    },
+    "Red Dead Redemption 2": {
+      "title_id": "CUSA03041",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/BASE/UP1004-CUSA03041_00-REDEMPTION000002_BASE_00.pkg",
+        "version": "01.32",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/UPDATE/1.32/UP1004-CUSA03041_00-REDEMPTION000002_UPD_00.pkg",
+        "version": "1.32"
+      }
+    },
+    "Resident Evil 4: Remake": {
+      "title_id": "CUSA33387",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/BASE/UP0102-CUSA33387_00-RE4RMAINGAME0000_BASE_00.pkg",
+        "version": "01.11",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202210/0706/EVWyZD63pahuh95eKloFaJuC.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/UPDATE/1.11/UP0102-CUSA33387_00-RE4RMAINGAME0000_UPD_00.pkg",
+        "version": "1.11"
+      }
+    },
+    "Sekiro: Shadows Die Twice": {
+      "title_id": "CUSA12047",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_00.pkg",
+        "version": "01.06",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
+      },
+      "update": {
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_00.pkg",
+        "version": "1.06"
+      }
+    },
+    "Star Wars Jedi: Survivor": {
+      "title_id": "CUSA33778",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/BASE/UP0006-CUSA33778_00-APPLEJACKGAME000_BASE_00.pkg",
+        "version": "01.03",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202304/1016/47becbe467e18575f71429abbaec9af707865744b825f34d.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/UPDATE/1.03/UP0006-CUSA33778_00-APPLEJACKGAME000_UPD_00.pkg",
+        "version": "1.03"
+      }
+    },
+    "The Last of Us Part II": {
+      "title_id": "CUSA07820",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/BASE/UP9000-CUSA07820_00-THELASTOFUSPART2_BASE_00.pkg",
+        "version": "01.09",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/UPDATE/1.09/UP9000-CUSA07820_00-THELASTOFUSPART2_UPD_00.pkg",
+        "version": "1.09"
+      }
+    },
     "The Forest": {
       "title_id": "CUSA12398",
       "base": {
