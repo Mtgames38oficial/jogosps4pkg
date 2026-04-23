@@ -17,7 +17,7 @@
     "Call of Duty: Modern Warfare III": {
       "title_id": "CUSA23827",
       "base": {
-        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002-CUSA23827_00-COREGAME00000001.pkg",
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002 -CUSA23827_00-COREGAME00000001.pkg",
         "version": "01.33",
         "size": 0,
         "min_fw": "9.00",
@@ -187,9 +187,13 @@
       "base": {
         "url": "https://archive.org/download/jogos-ps-4/TheForest.pkg",
         "version": "01.00",
-        "size": 1710000000,
-        "min_fw": null,
+        "size": "1.71 GB",
+        "min_fw": "9.00",
         "cover_url": "https://upload.wikimedia.org/wikipedia/en/4/46/TheForest_Game.jpg"
+      },
+      "update": {
+        "url": "",
+        "version": ""
       }
     }
   }
