@@ -181,6 +181,16 @@
         "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg",
         "version": "1.69"
       }
+    },
+    "The Forest": {
+      "title_id": "CUSA12398",
+      "base": {
+        "url": "https://archive.org/download/jogos-ps-4/TheForest.pkg",
+        "version": "01.00",
+        "size": 1710000000,
+        "min_fw": null,
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/4/46/TheForest_Game.jpg"
+      }
     }
   }
 }
