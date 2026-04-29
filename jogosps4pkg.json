@@ -75,13 +75,14 @@
       "base": {
         "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP1004-CUSA00419_00-GTAVDIGITALDOWNL/BASE/UP1004-CUSA00419_00-GTAVDIGITALDOWNL_BASE_00.pkg",
         "version": "01.00",
-        "size": 0,
+        "size": 41,7,
         "min_fw": "9.00",
         "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00419.png"
       },
       "update": {
         "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP1004-CUSA00419_00-GTAVDIGITALDOWNL/UPDATE/1.56/UP1004-CUSA00419_00-GTAVDIGITALDOWNL_UPD_00.pkg",
         "version": "1.56"
+         "size": 48,3,
       }
     },
     "God of War Ragnarök": {
