@@ -17,7 +17,7 @@
     "Call of Duty: Modern Warfare III": {
       "title_id": "CUSA23827",
       "base": {
-        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002 -CUSA23827_00-COREGAME00000001.pkg",
+        "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002-CUSA23827_00-COREGAME00000001.pkg",
         "version": "01.33",
         "size": 0,
         "min_fw": "9.00",
@@ -69,6 +69,7 @@
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/UPDATE/1.35/UP9000-CUSA07408_00-00000000GODOFWAR_UPD_00.pkg",
         "version": "1.35"
       }
+    },
     "Grand Theft Auto V": {
       "title_id": "CUSA00419",
       "base": {
@@ -81,7 +82,7 @@
       "update": {
         "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP1004-CUSA00419_00-GTAVDIGITALDOWNL/UPDATE/1.56/UP1004-CUSA00419_00-GTAVDIGITALDOWNL_UPD_00.pkg",
         "version": "1.56"
-      } 
+      }
     },
     "God of War Ragnarök": {
       "title_id": "CUSA34384",
