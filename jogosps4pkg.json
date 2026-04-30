@@ -11,7 +11,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/UPDATE/1.05/EP0001-CUSA00605_00-AC5GAMEPS4000001_UPD_00.pkg",
-        "version": "1.05"
+        "version": "1.05",
+        "size": 0
       }
     },
     "Call of Duty: Modern Warfare III": {
@@ -25,7 +26,8 @@
       },
       "update": {
         "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_00.pkg",
-        "version": "1.33"
+        "version": "1.33",
+        "size": 0
       }
     },
     "Call of Duty: Vanguard": {
@@ -39,7 +41,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/UPDATE/1.26/UP0002-CUSA24041_00-CODVTHEGAME00001_UPD_00.pkg",
-        "version": "1.26"
+        "version": "1.26",
+        "size": 0
       }
     },
     "Cyberpunk 2077": {
@@ -53,7 +56,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP4497-CUSA16596_00-0000000000000004/UPDATE/1.61/UP4497-CUSA16596_00-0000000000000004_UPD_00.pkg",
-        "version": "1.61"
+        "version": "1.61",
+        "size": 0
       }
     },
     "God of War": {
@@ -67,7 +71,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/UPDATE/1.35/UP9000-CUSA07408_00-00000000GODOFWAR_UPD_00.pkg",
-        "version": "1.35"
+        "version": "1.35",
+        "size": 0
       }
     },
     "Grand Theft Auto V": {
@@ -75,14 +80,14 @@
       "base": {
         "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP1004-CUSA00419_00-GTAVDIGITALDOWNL/BASE/UP1004-CUSA00419_00-GTAVDIGITALDOWNL_BASE_00.pkg",
         "version": "01.00",
-        "size": 41,7,
+        "size": 44775055360,
         "min_fw": "9.00",
         "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00419.png"
       },
       "update": {
         "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP1004-CUSA00419_00-GTAVDIGITALDOWNL/UPDATE/1.56/UP1004-CUSA00419_00-GTAVDIGITALDOWNL_UPD_00.pkg",
-        "version": "1.56"
-        "size": 0,
+        "version": "1.56",
+        "size": 51881467776,
       }
     },
     "God of War Ragnarök": {
@@ -96,7 +101,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/UPDATE/6.05/UP9000-CUSA34384_00-GOWRAGNAROK00000_UPD_00.pkg",
-        "version": "6.05"
+        "version": "6.05",
+        "size": 0
       }
     },
     "Days Gone": {
@@ -110,7 +116,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/EP9000-CUSA09175_00-DAYSGONECOMPLETE/UPDATE/1.84/EP9000-CUSA09175_00-DAYSGONECOMPLETE_UPD_00.pkg",
-        "version": "1.84"
+        "version": "1.84",
+        "size": 0
       }
     },
     "EA Sports FC 26": {
@@ -124,7 +131,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/UPDATE/1.13/UP0006-CUSA52342_00-EASPORTSFC2026BG_UPD_00.pkg",
-        "version": "1.13"
+        "version": "1.13",
+        "size": 0
       }
     },
     "Elden Ring": {
@@ -138,7 +146,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA28863_00-ELDENRING0000000/UPDATE/1.22/UP0700-CUSA28863_00-ELDENRING0000000_UPD_00.pkg",
-        "version": "1.22"
+        "version": "1.22",
+        "size": 0
       }
     },
     "Fallout 4": {
@@ -152,7 +161,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/UPDATE/1.37/UP1003-CUSA03448_00-FALLOUT4FULGLAME_UPD_00.pkg",
-        "version": "1.37"
+        "version": "1.37",
+        "size": 0
       }
     },
     "Ghost of Tsushima": {
@@ -166,7 +176,8 @@
       },
       "update": {
         "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/UPDATE/2.24/UP9000-CUSA11456_00-GHOSTSHIP0000000_UPD_00.pkg",
-        "version": "2.24"
+        "version": "2.24",
+        "size": 0
       }
     },
     "Far Cry 4": {
@@ -180,7 +191,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00462_00-FC4GAMEPS4000001/UPDATE/1.08/EP0001-CUSA00462_00-FC4GAMEPS4000001_UPD_00.pkg",
-        "version": "1.08"
+        "version": "1.08",
+        "size": 0
       }
     },
     "World War Z": {
@@ -194,7 +206,8 @@
       },
       "update": {
         "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg",
-        "version": "1.69"
+        "version": "1.69",
+        "size": 0
       }
     },
     "Marvel's Spider-Man: Miles Morales": {
@@ -208,7 +221,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/UPDATE/1.14/UP9000-CUSA17722_00-MARVELSSMMORALES_UPD.pkg",
-        "version": "1.14"
+        "version": "1.14",
+        "size": 0
       }
     },
     "Horizon Zero Dawn: Complete Edition": {
@@ -222,7 +236,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA10237_00-HRZCE00000000000/UPDATE/1.54/UP9000-CUSA10237_00-HRZCE00000000000_UPD_00.pkg",
-        "version": "1.54"
+        "version": "1.54",
+        "size": 0
       }
     },
     "LEGO Star Wars: The Skywalker Saga": {
@@ -236,7 +251,8 @@
       },
       "update": {
         "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_00.pkg",
-        "version": "1.09"
+        "version": "1.09",
+        "size": 0
       }
     },
     "Marvel's Spider-Man: Game of the Year Edition": {
@@ -250,7 +266,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA02299_00-MARVELSSPIDERMAN/UPDATE/1.19/UP9000-CUSA02299_00-MARVELSSPIDERMAN_UPD_00.pkg",
-        "version": "1.19"
+        "version": "1.19",
+        "size": 0
       }
     },
     "Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto": {
@@ -264,7 +281,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/UPDATE/1.05/UP0700-CUSA06381_00-NARUTOUNS4RTB000_UPD_00.pkg",
-        "version": "1.05"
+        "version": "1.05",
+        "size": 0
       }
     },
     "Hogwarts Legacy": {
@@ -278,7 +296,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/UPDATE/1.05/UP1018-CUSA12824_00-HOGWARTSLEGACY01_UPD_00.pkg",
-        "version": "1.05"
+        "version": "1.05",
+        "size": 0
       }
     },
     "Red Dead Redemption": {
@@ -292,7 +311,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/EP1004-CUSA36843_00-REDEMPTION000001/UPDATE/1.04/EP1004-CUSA36843_00-REDEMPTION000001_UPD_00.pkg",
-        "version": "1.04"
+        "version": "1.04",
+        "size": 0
       }
     },
     "Red Dead Redemption 2": {
@@ -306,7 +326,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP1004-CUSA03041_00-REDEMPTION000002/UPDATE/1.32/UP1004-CUSA03041_00-REDEMPTION000002_UPD_00.pkg",
-        "version": "1.32"
+        "version": "1.32",
+        "size": 0
       }
     },
     "Resident Evil 4: Remake": {
@@ -320,7 +341,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP0102-CUSA33387_00-RE4RMAINGAME0000/UPDATE/1.11/UP0102-CUSA33387_00-RE4RMAINGAME0000_UPD_00.pkg",
-        "version": "1.11"
+        "version": "1.11",
+        "size": 0
       }
     },
     "Sekiro: Shadows Die Twice": {
@@ -334,7 +356,8 @@
       },
       "update": {
         "url": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_00.pkg",
-        "version": "1.06"
+        "version": "1.06",
+        "size": 0
       }
     },
     "Star Wars Jedi: Survivor": {
@@ -348,7 +371,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA33778_00-APPLEJACKGAME000/UPDATE/1.03/UP0006-CUSA33778_00-APPLEJACKGAME000_UPD_00.pkg",
-        "version": "1.03"
+        "version": "1.03",
+        "size": 0
       }
     },
     "The Last of Us Part II": {
@@ -362,7 +386,8 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/UPDATE/1.09/UP9000-CUSA07820_00-THELASTOFUSPART2_UPD_00.pkg",
-        "version": "1.09"
+        "version": "1.09",
+        "size": 0
       }
     },
     "The Forest": {
@@ -370,13 +395,14 @@
       "base": {
         "url": "https://archive.org/download/jogos-ps-4/TheForest.pkg",
         "version": "01.00",
-        "size": "1.81 GB",
+        "size": 0,
         "min_fw": "9.00",
         "cover_url": "https://upload.wikimedia.org/wikipedia/en/4/46/TheForest_Game.jpg"
       },
       "update": {
         "url": "",
-        "version": ""
+        "version": "",
+        "size": 0
       }
     }
   }
