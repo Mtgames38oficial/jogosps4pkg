@@ -60,51 +60,6 @@
         "size": 0
       }
     },
-    "God of War": {
-      "title_id": "CUSA07408",
-      "base": {
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/BASE/UP9000-CUSA07408_00-00000000GODOFWAR_BASE_00.pkg",
-        "version": "01.35",
-        "size": 0,
-        "min_fw": "9.00",
-        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
-      },
-      "update": {
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/UPDATE/1.35/UP9000-CUSA07408_00-00000000GODOFWAR_UPD_00.pkg",
-        "version": "1.35",
-        "size": 0
-      }
-    },
-    "Grand Theft Auto V": {
-      "title_id": "CUSA00419",
-      "base": {
-        "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP1004-CUSA00419_00-GTAVDIGITALDOWNL/BASE/UP1004-CUSA00419_00-GTAVDIGITALDOWNL_BASE_00.pkg",
-        "version": "01.00",
-        "size": 44775055360,
-        "min_fw": "9.00",
-        "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00419.png"
-      },
-      "update": {
-        "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP1004-CUSA00419_00-GTAVDIGITALDOWNL/UPDATE/1.56/UP1004-CUSA00419_00-GTAVDIGITALDOWNL_UPD_00.pkg",
-        "version": "1.56",
-        "size": 51881467776
-      }
-    },
-    "God of War Ragnarök": {
-      "title_id": "CUSA34384",
-      "base": {
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/BASE/UP9000-CUSA34384_00-GOWRAGNAROK00000_BASE_00.pkg",
-        "version": "06.05",
-        "size": 0,
-        "min_fw": "9.00",
-        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png"
-      },
-      "update": {
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/UPDATE/6.05/UP9000-CUSA34384_00-GOWRAGNAROK00000_UPD_00.pkg",
-        "version": "6.05",
-        "size": 0
-      }
-    },
     "Days Gone": {
       "title_id": "CUSA09175",
       "base": {
@@ -165,21 +120,6 @@
         "size": 0
       }
     },
-    "Ghost of Tsushima": {
-      "title_id": "CUSA11456",
-      "base": {
-        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_00.pkg",
-        "version": "01.06",
-        "size": 0,
-        "min_fw": "9.00",
-        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1c.png"
-      },
-      "update": {
-        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/UPDATE/2.24/UP9000-CUSA11456_00-GHOSTSHIP0000000_UPD_00.pkg",
-        "version": "2.24",
-        "size": 0
-      }
-    },
     "Far Cry 4": {
       "title_id": "CUSA00462",
       "base": {
@@ -195,33 +135,78 @@
         "size": 0
       }
     },
-    "World War Z": {
-      "title_id": "CUSA14046",
+    "Ghost of Tsushima": {
+      "title_id": "CUSA11456",
       "base": {
-        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_0.pkg",
-        "version": "01.69",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_00.pkg",
+        "version": "01.06",
         "size": 0,
         "min_fw": "9.00",
-        "cover_url": "https://image.api.playstation.com/cdn/UP2746/CUSA14046_00/0sdmApE8KNjQkMY5y3PFa7KJzf7MIx2K.png"
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1c.png"
       },
       "update": {
-        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg",
-        "version": "1.69",
+        "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/UPDATE/2.24/UP9000-CUSA11456_00-GHOSTSHIP0000000_UPD_00.pkg",
+        "version": "2.24",
         "size": 0
       }
     },
-    "Marvel's Spider-Man: Miles Morales": {
-      "title_id": "CUSA17722",
+    "God of War": {
+      "title_id": "CUSA07408",
       "base": {
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/BASE/UP9000-CUSA17722_00-MARVELSSMMORALES_BASE.pkg",
-        "version": "01.14",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/BASE/UP9000-CUSA07408_00-00000000GODOFWAR_BASE_00.pkg",
+        "version": "01.35",
         "size": 0,
         "min_fw": "9.00",
-        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png"
       },
       "update": {
-        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/UPDATE/1.14/UP9000-CUSA17722_00-MARVELSSMMORALES_UPD.pkg",
-        "version": "1.14",
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07408_00-00000000GODOFWAR/UPDATE/1.35/UP9000-CUSA07408_00-00000000GODOFWAR_UPD_00.pkg",
+        "version": "1.35",
+        "size": 0
+      }
+    },
+    "God of War Ragnarök": {
+      "title_id": "CUSA34384",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/BASE/UP9000-CUSA34384_00-GOWRAGNAROK00000_BASE_00.pkg",
+        "version": "06.05",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/hguxDixf0FzALJnXNCc10Tdo.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA34384_00-GOWRAGNAROK00000/UPDATE/6.05/UP9000-CUSA34384_00-GOWRAGNAROK00000_UPD_00.pkg",
+        "version": "6.05",
+        "size": 0
+      }
+    },
+    "Grand Theft Auto V": {
+      "title_id": "CUSA00419",
+      "base": {
+        "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP1004-CUSA00419_00-GTAVDIGITALDOWNL/BASE/UP1004-CUSA00419_00-GTAVDIGITALDOWNL_BASE_00.pkg",
+        "version": "01.00",
+        "size": 44775055360,
+        "min_fw": "9.00",
+        "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00419.png"
+      },
+      "update": {
+        "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP1004-CUSA00419_00-GTAVDIGITALDOWNL/UPDATE/1.56/UP1004-CUSA00419_00-GTAVDIGITALDOWNL_UPD_00.pkg",
+        "version": "1.56",
+        "size": 51881467776
+      }
+    },
+    "Hogwarts Legacy": {
+      "title_id": "CUSA12824",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/BASE/UP1018-CUSA12824_00-HOGWARTSLEGACY01_BASE_00.pkg",
+        "version": "01.05",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/UPDATE/1.05/UP1018-CUSA12824_00-HOGWARTSLEGACY01_UPD_00.pkg",
+        "version": "1.05",
         "size": 0
       }
     },
@@ -270,6 +255,21 @@
         "size": 0
       }
     },
+    "Marvel's Spider-Man: Miles Morales": {
+      "title_id": "CUSA17722",
+      "base": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/BASE/UP9000-CUSA17722_00-MARVELSSMMORALES_BASE.pkg",
+        "version": "01.14",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
+      },
+      "update": {
+        "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA17722_00-MARVELSSMMORALES/UPDATE/1.14/UP9000-CUSA17722_00-MARVELSSMMORALES_UPD.pkg",
+        "version": "1.14",
+        "size": 0
+      }
+    },
     "Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto": {
       "title_id": "CUSA06381",
       "base": {
@@ -281,21 +281,6 @@
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP0700-CUSA06381_00-NARUTOUNS4RTB000/UPDATE/1.05/UP0700-CUSA06381_00-NARUTOUNS4RTB000_UPD_00.pkg",
-        "version": "1.05",
-        "size": 0
-      }
-    },
-    "Hogwarts Legacy": {
-      "title_id": "CUSA12824",
-      "base": {
-        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/BASE/UP1018-CUSA12824_00-HOGWARTSLEGACY01_BASE_00.pkg",
-        "version": "01.05",
-        "size": 0,
-        "min_fw": "9.00",
-        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/ce2e7f5896365b4e35a192b1f7592b590fee98827644ddb4.png"
-      },
-      "update": {
-        "url": "http://cdn.duskaryon.pp.ua/UP1018-CUSA12824_00-HOGWARTSLEGACY01/UPDATE/1.05/UP1018-CUSA12824_00-HOGWARTSLEGACY01_UPD_00.pkg",
         "version": "1.05",
         "size": 0
       }
@@ -375,6 +360,21 @@
         "size": 0
       }
     },
+    "The Forest": {
+      "title_id": "CUSA12398",
+      "base": {
+        "url": "https://archive.org/download/jogos-ps-4/TheForest.pkg",
+        "version": "01.00",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/4/46/TheForest_Game.jpg"
+      },
+      "update": {
+        "url": "",
+        "version": "",
+        "size": 0
+      }
+    },
     "The Last of Us Part II": {
       "title_id": "CUSA07820",
       "base": {
@@ -390,18 +390,48 @@
         "size": 0
       }
     },
-    "The Forest": {
-      "title_id": "CUSA12398",
+    "The Last Of Us Remastered": {
+      "title_id": "cusa00556",
       "base": {
-        "url": "https://archive.org/download/jogos-ps-4/TheForest.pkg",
-        "version": "01.00",
-        "size": 0,
+        "url": "https://icy-fog-e8ed.nubljaiynk.workers.dev/EP9000-CUSA00556_00-THELASTOFUS00000/BASE/EP9000-CUSA00556_00-THELASTOFUS00000_BASE_00.pkg",
+        "version": "1.00",
+        "size": 47137266073,
         "min_fw": "9.00",
-        "cover_url": "https://upload.wikimedia.org/wikipedia/en/4/46/TheForest_Game.jpg"
+        "cover_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/f/f4/The_Last_of_Us_Remastered.png/330px-The_Last_of_Us_Remastered.png"
       },
       "update": {
-        "url": "",
-        "version": "",
+        "url": "https://icy-fog-e8ed.nubljaiynk.workers.dev/EP9000-CUSA00556_00-THELASTOFUS00000/UPDATE/1.11/EP9000-CUSA00556_00-THELASTOFUS00000_UPD_00.pkg",
+        "version": "1.11",
+        "size": 369098752
+      }
+    },
+    "Uncharted 4: A Thief’s End™": {
+      "title_id": "CUSA00341",
+      "base": {
+        "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP9000-CUSA00341_00-UNCHARTED4000000/BASE/UP9000-CUSA00341_00-UNCHARTED4000000_BASE_00.pkg",
+        "version": "1.00",
+        "size": 47459388620,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2620/gPTPUF3mT9FXELav8OKXmr9j.png"
+      },
+      "update": {
+        "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP9000-CUSA00341_00-UNCHARTED4000000/UPDATE/1.33/UP9000-CUSA00341_00-UNCHARTED4000000_UPD_00.pkg",
+        "version": "1.33",
+        "size": 14470348
+      }
+    },
+    "World War Z": {
+      "title_id": "CUSA14046",
+      "base": {
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_0.pkg",
+        "version": "01.69",
+        "size": 0,
+        "min_fw": "9.00",
+        "cover_url": "https://image.api.playstation.com/cdn/UP2746/CUSA14046_00/0sdmApE8KNjQkMY5y3PFa7KJzf7MIx2K.png"
+      },
+      "update": {
+        "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg",
+        "version": "1.69",
         "size": 0
       }
     }
