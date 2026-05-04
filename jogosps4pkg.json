@@ -225,6 +225,21 @@
         "size": 0
       }
     },
+    "Inside": {
+      "title_id": "CUSA02754",
+      "base": {
+        "url": "https://icy-fog-e8ed.nubljaiynk.workers.dev/EP2054-CUSA02754_00-INSIDE0000000000/BASE/EP2054-CUSA02754_00-INSIDE0000000000_BASE_00.pkg",
+        "version": "1.00",
+        "size": 1181116006,
+        "min_fw": "9.00",
+        "cover_url": "https://library.duskaryon.com/api/image?src=https%3A%2F%2Fimages.duskaryon.com%2FEP2054-CUSA02754_00-INSIDE0000000000%2FBASE%2Fcover.png"
+      },
+      "update": {
+        "url": "https://icy-fog-e8ed.nubljaiynk.workers.dev/EP2054-CUSA02754_00-INSIDE0000000000/UPDATE/1.01/EP2054-CUSA02754_00-INSIDE0000000000_UPD_00.pkg",
+        "version": "1.01",
+        "size": 29674700
+      }
+    },
     "LEGO Star Wars: The Skywalker Saga": {
       "title_id": "CUSA13794",
       "base": {
