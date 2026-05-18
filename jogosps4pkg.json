@@ -403,7 +403,16 @@
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/UPDATE/1.09/UP9000-CUSA07820_00-THELASTOFUSPART2_UPD_00.pkg",
         "version": "1.09",
         "size": 0
-      }
+      },
+      "dlcs": [
+        {
+          "name": "The Last of Us™ Part II",
+          "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP9000-CUSA07820_00-THELASTOFUSPART2/DLC/UP9000-CUSA07820_00-T2PREO0000000000.pkg",
+          "version": "1.00",
+          "size": 1,
+          "cover_url": ""
+        }
+      ]
     },
     "The Last Of Us Remastered": {
       "title_id": "cusa00556",
