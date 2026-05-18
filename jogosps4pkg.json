@@ -13,23 +13,7 @@
         "url": "http://cdn.duskaryon.pp.ua/EP0001-CUSA00605_00-AC5GAMEPS4000001/UPDATE/1.05/EP0001-CUSA00605_00-AC5GAMEPS4000001_UPD_00.pkg",
         "version": "1.05",
         "size": 0
-      },
-      "dlcs": [
-        {
-          "name": "teste",
-          "url": "teste",
-          "version": "1.00",
-          "size": 0,
-          "cover_url": ""
-        },
-        {
-          "name": "adadz",
-          "url": "fcsafc",
-          "version": "1.00",
-          "size": 0,
-          "cover_url": ""
-        }
-      ]
+      }
     },
     "Call of Duty: Modern Warfare III": {
       "title_id": "CUSA23827",
