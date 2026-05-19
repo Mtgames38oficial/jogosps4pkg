@@ -407,7 +407,7 @@
       "dlcs": [
         {
           "name": "The Last of Us™ Part II",
-          "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP9000-CUSA07820_00-THELASTOFUSPART2/DLC/UP9000-CUSA07820_00-T2PREO0000000000.pkg",
+          "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP9000-CUSA07820_00-THELASTOFUSPART2/DLC/UP9000-CUSA07820_00-T2PREO0000000000.pkg",
           "version": "1.00",
           "size": 1,
           "cover_url": ""
@@ -458,6 +458,51 @@
         "version": "1.69",
         "size": 0
       }
+    },
+    "Call of Duty®: Modern Warfare®": {
+      "title_id": "CUSA08829",
+      "base": {
+        "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/BASE/UP0002-CUSA08829_00-CODMWTHEGAME0001_BASE_00.pkg",
+        "version": "1.00",
+        "size": 0,
+        "min_fw": "6.50",
+        "cover_url": "http://library.duskaryon.com/api/image?src=https%3A%2F%2Fimages.duskaryon.com%2FUP0002-CUSA08829_00-CODMWTHEGAME0001%2FBASE%2Fcover.png"
+      },
+      "update": {
+        "url": "https://icy-fog-e8ed.nubljaiynk.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/UPDATE/1.67/UP0002-CUSA08829_00-CODMWTHEGAME0001_UPD_00.pkg",
+        "version": "1.67",
+        "size": 0
+      },
+      "dlcs": [
+        {
+          "name": "Call of Duty®: Modern Warfare® - Campaign DLC 1",
+          "url": "http://icy-fog-e8ed.nubljaiynk.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/DLC/UP0002-CUSA08829_00-CODMWGMRE22SP001.pkg",
+          "version": "1.00",
+          "size": 0,
+          "cover_url": ""
+        },
+        {
+          "name": "Call of Duty®: Modern Warfare® - Multiplayer Pack",
+          "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/DLC/UP0002-CUSA08829_00-CODMWMODEMP00001.pkg",
+          "version": "1.00",
+          "size": 0,
+          "cover_url": ""
+        },
+        {
+          "name": "Call of Duty®: Modern Warfare® - Multiplayer DLC 2",
+          "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/DLC/UP0002-CUSA08829_00-CODMWGMRE22MP001.pkg",
+          "version": "1.00",
+          "size": 0,
+          "cover_url": ""
+        },
+        {
+          "name": "Call of Duty®: Modern Warfare® - Multiplayer and Special Ops DLC 1",
+          "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/DLC/UP0002-CUSA08829_00-CODMWGMRE22MPCP1.pkg",
+          "version": "1.00",
+          "size": 0,
+          "cover_url": ""
+        }
+      ]
     }
   }
 }
