@@ -395,21 +395,21 @@
       "base": {
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/BASE/UP9000-CUSA07820_00-THELASTOFUSPART2_BASE_00.pkg",
         "version": "01.09",
-        "size": 0,
+        "size": 78383153152,
         "min_fw": "9.00",
         "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/UPDATE/1.09/UP9000-CUSA07820_00-THELASTOFUSPART2_UPD_00.pkg",
         "version": "1.09",
-        "size": 0
+        "size": 4294967296
       },
       "dlcs": [
         {
           "name": "The Last of Us™ Part II",
           "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP9000-CUSA07820_00-THELASTOFUSPART2/DLC/UP9000-CUSA07820_00-T2PREO0000000000.pkg",
           "version": "1.00",
-          "size": 1,
+          "size": 1048576,
           "cover_url": ""
         }
       ]
