@@ -20,14 +20,14 @@
       "base": {
         "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/BASE/UP0002-CUSA23827_00-COREGAME00000001.pkg",
         "version": "01.33",
-        "size": 0,
+        "size": 146,
         "min_fw": "9.00",
         "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202311/0921/a7f105cde9d34ae086970fad668e1d54f4d99e1d4f66796b.png"
       },
       "update": {
         "url": "http://files.duskaryon.pp.ua/UP0002-CUSA23827_00-COREGAME00000001/UPDATE/1.33/UP0002-CUSA23827_00-COREGAME00000001_UPD_00.pkg",
         "version": "1.33",
-        "size": 0
+        "size": 146
       }
     },
     "Call of Duty: Vanguard": {
@@ -35,7 +35,7 @@
       "base": {
         "url": "http://files.duskaryon.pp.ua/UP0002-CUSA24041_00-CODVTHEGAME00001/BASE/UP0002-CUSA24041_00-CODVTHEGAME00001_BASE_00.pkg",
         "version": "01.26",
-        "size": 0,
+        "size": 146,
         "min_fw": "9.00",
         "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202109/2218/JelPN9rNJfDtoQJTwDsa0deG.png"
       },
@@ -87,7 +87,7 @@
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP0006-CUSA52342_00-EASPORTSFC2026BG/UPDATE/1.13/UP0006-CUSA52342_00-EASPORTSFC2026BG_UPD_00.pkg",
         "version": "1.13",
-        "size": 0
+        "size": 28352
       }
     },
     "Elden Ring": {
@@ -110,14 +110,14 @@
       "base": {
         "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/BASE/UP1003-CUSA03448_00-FALLOUT4FULGLAME_BASE_00.pkg",
         "version": "01.37",
-        "size": 0,
+        "size": 28352,
         "min_fw": "9.00",
         "cover_url": "https://image.api.playstation.com/cdn/UP1003/CUSA02557_00/j4PdxSxO3optsrP1SxnAqdq6qCmYPd9x.png"
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP1003-CUSA03448_00-FALLOUT4FULGLAME/UPDATE/1.37/UP1003-CUSA03448_00-FALLOUT4FULGLAME_UPD_00.pkg",
         "version": "1.37",
-        "size": 0
+        "size": 28352
       }
     },
     "Far Cry 4": {
@@ -140,14 +140,14 @@
       "base": {
         "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/BASE/UP9000-CUSA11456_00-GHOSTSHIP0000000_BASE_00.pkg",
         "version": "01.06",
-        "size": 0,
+        "size": 146,
         "min_fw": "9.00",
         "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/c16gs6a7lbAYzPf7ZTikbH1c.png"
       },
       "update": {
         "url": "http://files.duskaryon.pp.ua/UP9000-CUSA11456_00-GHOSTSHIP0000000/UPDATE/2.24/UP9000-CUSA11456_00-GHOSTSHIP0000000_UPD_00.pkg",
         "version": "2.24",
-        "size": 0
+        "size": 146
       }
     },
     "God of War": {
@@ -185,14 +185,14 @@
       "base": {
         "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP1004-CUSA00419_00-GTAVDIGITALDOWNL/BASE/UP1004-CUSA00419_00-GTAVDIGITALDOWNL_BASE_00.pkg",
         "version": "01.00",
-        "size": 44775055360,
+        "size": 44760039424,
         "min_fw": "9.00",
         "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA00419.png"
       },
       "update": {
         "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP1004-CUSA00419_00-GTAVDIGITALDOWNL/UPDATE/1.56/UP1004-CUSA00419_00-GTAVDIGITALDOWNL_UPD_00.pkg",
         "version": "1.56",
-        "size": 51881467776
+        "size": 51868532736
       }
     },
     "Hogwarts Legacy": {
@@ -230,14 +230,14 @@
       "base": {
         "url": "https://icy-fog-e8ed.nubljaiynk.workers.dev/EP2054-CUSA02754_00-INSIDE0000000000/BASE/EP2054-CUSA02754_00-INSIDE0000000000_BASE_00.pkg",
         "version": "1.00",
-        "size": 1181116006,
+        "size": 1181286400,
         "min_fw": "9.00",
         "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1907/4465aac467b95306365bada8e0f70aa983cc7f816110e322.png"
       },
       "update": {
         "url": "https://icy-fog-e8ed.nubljaiynk.workers.dev/EP2054-CUSA02754_00-INSIDE0000000000/UPDATE/1.01/EP2054-CUSA02754_00-INSIDE0000000000_UPD_00.pkg",
         "version": "1.01",
-        "size": 29674700
+        "size": 29687808
       }
     },
     "LEGO Star Wars: The Skywalker Saga": {
@@ -245,14 +245,14 @@
       "base": {
         "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/BASE/UP1018-CUSA13794_00-LEGOSWTSS0000000_BASE_00.pkg",
         "version": "01.09",
-        "size": 0,
+        "size": 146,
         "min_fw": "9.00",
         "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png"
       },
       "update": {
         "url": "http://files.duskaryon.pp.ua/UP1018-CUSA13794_00-LEGOSWTSS0000000/UPDATE/1.09/UP1018-CUSA13794_00-LEGOSWTSS0000000_UPD_00.pkg",
         "version": "1.09",
-        "size": 0
+        "size": 146
       }
     },
     "Marvel's Spider-Man: Game of the Year Edition": {
@@ -350,14 +350,14 @@
       "base": {
         "url": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/BASE/UP0002-CUSA12047_00-SEKIROGAME000001_BASE_00.pkg",
         "version": "01.06",
-        "size": 0,
+        "size": 146,
         "min_fw": "9.00",
         "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png"
       },
       "update": {
         "url": "http://files.duskaryon.pp.ua/UP0002-CUSA12047_00-SEKIROGAME000001/UPDATE/1.06/UP0002-CUSA12047_00-SEKIROGAME000001_UPD_00.pkg",
         "version": "1.06",
-        "size": 0
+        "size": 146
       }
     },
     "Star Wars Jedi: Survivor": {
@@ -395,14 +395,14 @@
       "base": {
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/BASE/UP9000-CUSA07820_00-THELASTOFUSPART2_BASE_00.pkg",
         "version": "01.09",
-        "size": 78383153152,
+        "size": 74888577024,
         "min_fw": "9.00",
         "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
       },
       "update": {
         "url": "http://cdn.duskaryon.pp.ua/UP9000-CUSA07820_00-THELASTOFUSPART2/UPDATE/1.09/UP9000-CUSA07820_00-THELASTOFUSPART2_UPD_00.pkg",
         "version": "1.09",
-        "size": 4294967296
+        "size": 4770824192
       },
       "dlcs": [
         {
@@ -419,14 +419,14 @@
       "base": {
         "url": "https://icy-fog-e8ed.nubljaiynk.workers.dev/EP9000-CUSA00556_00-THELASTOFUS00000/BASE/EP9000-CUSA00556_00-THELASTOFUS00000_BASE_00.pkg",
         "version": "1.00",
-        "size": 47137266073,
+        "size": 47171305472,
         "min_fw": "9.00",
         "cover_url": "https://upload.wikimedia.org/wikipedia/pt/thumb/f/f4/The_Last_of_Us_Remastered.png/330px-The_Last_of_Us_Remastered.png"
       },
       "update": {
         "url": "https://icy-fog-e8ed.nubljaiynk.workers.dev/EP9000-CUSA00556_00-THELASTOFUS00000/UPDATE/1.11/EP9000-CUSA00556_00-THELASTOFUS00000_UPD_00.pkg",
         "version": "1.11",
-        "size": 369098752
+        "size": 369164288
       }
     },
     "Uncharted 4: A Thief’s End™": {
@@ -434,14 +434,14 @@
       "base": {
         "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP9000-CUSA00341_00-UNCHARTED4000000/BASE/UP9000-CUSA00341_00-UNCHARTED4000000_BASE_00.pkg",
         "version": "1.00",
-        "size": 47459388620,
+        "size": 47435612160,
         "min_fw": "9.00",
         "cover_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2620/gPTPUF3mT9FXELav8OKXmr9j.png"
       },
       "update": {
         "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP9000-CUSA00341_00-UNCHARTED4000000/UPDATE/1.33/UP9000-CUSA00341_00-UNCHARTED4000000_UPD_00.pkg",
         "version": "1.33",
-        "size": 13800000000
+        "size": 14764474368
       }
     },
     "World War Z": {
@@ -449,57 +449,57 @@
       "base": {
         "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/BASE/UP2746-CUSA14046_00-WWZTHEGAME201800_BASE_0.pkg",
         "version": "01.69",
-        "size": 0,
+        "size": 146,
         "min_fw": "9.00",
         "cover_url": "https://image.api.playstation.com/cdn/UP2746/CUSA14046_00/0sdmApE8KNjQkMY5y3PFa7KJzf7MIx2K.png"
       },
       "update": {
         "url": "http://files.duskaryon.pp.ua/UP2746-CUSA14046_00-WWZTHEGAME201800/UPDATE/1.69/UP2746-CUSA14046_00-WWZTHEGAME201800_UPD_00.pkg",
         "version": "1.69",
-        "size": 0
+        "size": 146
       }
     },
     "Call of Duty®: Modern Warfare®": {
       "title_id": "CUSA08829",
       "base": {
-        "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/BASE/UP0002-CUSA08829_00-CODMWTHEGAME0001_BASE_00.pkgg",
+        "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/BASE/UP0002-CUSA08829_00-CODMWTHEGAME0001_BASE_00.pkg",
         "version": "1.00",
-        "size": 9663676416,
+        "size": 9363718144,
         "min_fw": "6.50",
-        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1917/OS18LBxAVpQ1iPeGWAqSnxem.png"
+        "cover_url": "http://library.duskaryon.com/api/image?src=https%3A%2F%2Fimages.duskaryon.com%2FUP0002-CUSA08829_00-CODMWTHEGAME0001%2FBASE%2Fcover.png"
       },
       "update": {
         "url": "https://icy-fog-e8ed.nubljaiynk.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/UPDATE/1.67/UP0002-CUSA08829_00-CODMWTHEGAME0001_UPD_00.pkg",
         "version": "1.67",
-        "size": 68719476736
+        "size": 69421563904
       },
       "dlcs": [
         {
           "name": "Call of Duty®: Modern Warfare® - Campaign DLC 1",
           "url": "http://icy-fog-e8ed.nubljaiynk.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/DLC/UP0002-CUSA08829_00-CODMWGMRE22SP001.pkg",
           "version": "1.00",
-          "size": 10211284746,
+          "size": 10208215040,
           "cover_url": ""
         },
         {
           "name": "Call of Duty®: Modern Warfare® - Multiplayer and Special Ops DLC 1",
           "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/DLC/UP0002-CUSA08829_00-CODMWGMRE22MPCP1.pkg",
           "version": "1.00",
-          "size": 22505628631,
+          "size": 22509780992,
           "cover_url": ""
         },
         {
           "name": "Call of Duty®: Modern Warfare® - Multiplayer DLC 2",
           "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/DLC/UP0002-CUSA08829_00-CODMWGMRE22MP001.pkg",
           "version": "1.00",
-          "size": 20304457891,
+          "size": 20308492288,
           "cover_url": ""
         },
         {
           "name": "Call of Duty®: Modern Warfare® - Multiplayer Pack",
           "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/DLC/UP0002-CUSA08829_00-CODMWMODEMP00001.pkg",
           "version": "1.00",
-          "size": 6184752906,
+          "size": 6179913728,
           "cover_url": ""
         }
       ]
@@ -509,21 +509,21 @@
       "base": {
         "url": "http://icy-fog-e8ed.nubljaiynk.workers.dev/UP0006-CUSA52342_00-EASPORTSFC2026BG/BASE/UP0006-CUSA52342_00-EASPORTSFC2026BG_BASE_00.pkg",
         "version": "1.00",
-        "size": 16106127360,
+        "size": 15947202560,
         "min_fw": "12.50",
         "cover_url": "http://library.duskaryon.com/api/image?src=https%3A%2F%2Fimages.duskaryon.com%2FUP0006-CUSA52342_00-EASPORTSFC2026BG%2FBASE%2Fcover.png"
       },
       "update": {
         "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP0006-CUSA52342_00-EASPORTSFC2026BG/UPDATE/1.19/UP0006-CUSA52342_00-EASPORTSFC2026BG_UPD_00.pkg",
         "version": "1.19",
-        "size": 64424509440
+        "size": 69860327424
       },
       "dlcs": [
         {
           "name": "EA SPORTS FC 26 Unlock",
           "url": "http://icy-fog-e8ed.nubljaiynk.workers.dev/UP0006-CUSA52342_00-EASPORTSFC2026BG/DLC/UP0006-CUSA52342_00-FULLGAMEUNLOCK00.pkg",
           "version": "1.00",
-          "size": 0,
+          "size": 1048576,
           "cover_url": ""
         }
       ]
@@ -533,9 +533,9 @@
       "base": {
         "url": "http://icy-fog-e8ed.nubljaiynk.workers.dev/EP0102-CUSA18008_00-VILLAGEFULLGAMEX/BASE/EP0102-CUSA18008_00-VILLAGEFULLGAMEX_BASE_00.pkg",
         "version": "CUSA18008",
-        "size": 27917287424,
+        "size": 28310306816,
         "min_fw": "8.00",
-        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png"
+        "cover_url": "https://library.duskaryon.com/api/image?src=https%3A%2F%2Fimages.duskaryon.com%2FEP0102-CUSA18008_00-VILLAGEFULLGAMEX%2FBASE%2Fbanner.png"
       },
       "update": {
         "url": "http://icy-fog-e8ed.nubljaiynk.workers.dev/EP0102-CUSA18008_00-VILLAGEFULLGAMEX/UPDATE/1.13/EP0102-CUSA18008_00-VILLAGEFULLGAMEX_UPD_00.pkg",
