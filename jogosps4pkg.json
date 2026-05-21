@@ -462,11 +462,11 @@
     "Call of Duty®: Modern Warfare®": {
       "title_id": "CUSA08829",
       "base": {
-        "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/BASE/UP0002-CUSA08829_00-CODMWTHEGAME0001_BASE_00.pkg",
+        "url": "https://divine-snow-6718.bbbssyiytn.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/BASE/UP0002-CUSA08829_00-CODMWTHEGAME0001_BASE_00.pkgg",
         "version": "1.00",
         "size": 9663676416,
         "min_fw": "6.50",
-        "cover_url": "http://library.duskaryon.com/api/image?src=https%3A%2F%2Fimages.duskaryon.com%2FUP0002-CUSA08829_00-CODMWTHEGAME0001%2FBASE%2Fcover.png"
+        "cover_url": "https://image.api.playstation.com/vulcan/ap/rnd/202212/1917/OS18LBxAVpQ1iPeGWAqSnxem.png"
       },
       "update": {
         "url": "https://icy-fog-e8ed.nubljaiynk.workers.dev/UP0002-CUSA08829_00-CODMWTHEGAME0001/UPDATE/1.67/UP0002-CUSA08829_00-CODMWTHEGAME0001_UPD_00.pkg",
