@@ -542,6 +542,21 @@
         "version": "1.13",
         "size": 818937856
       }
+    },
+    "Tom Clancy's Ghost Recon® Wildlands": {
+      "title_id": "CUSA02902",
+      "base": {
+        "url": "http://icy-fog-e8ed.nubljaiynk.workers.dev/UP0001-CUSA02902_00-GRWNCSANORMAL000/BASE/UP0001-CUSA02902_00-GRWNCSANORMAL000_BASE_00.pkg",
+        "version": "1.00",
+        "size": 0,
+        "min_fw": "4.00",
+        "cover_url": "http://image.api.playstation.com/cdn/UP0001/CUSA02902_00/I2MEZJy2BGDNL2cShX060OvQ2783Hm8e.png"
+      },
+      "update": {
+        "url": "http://divine-snow-6718.bbbssyiytn.workers.dev/UP0001-CUSA02902_00-GRWNCSANORMAL000/UPDATE/1.31/UP0001-CUSA02902_00-GRWNCSANORMAL000_UPD_00.pkg",
+        "version": "1.31",
+        "size": 0
+      }
     }
   }
 }
