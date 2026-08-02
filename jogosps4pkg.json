@@ -51238,24 +51238,64 @@
     "page_url": "https://akirabox.com/M2BGwPAPmj40/file",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/09/Call-of-Duty__-Modern-Warfare_-PS4-PKG.webp",
     "metadata": {
-      "version": "1.67",
       "platform": "PS4",
       "genre": "Guerra",
       "mode": "offline",
       "size": "180,00 GB",
-      "update": "https://akirabox.com/b5OzdVDWmB8L/file",
       "firmware": "5.00"
     },
-    "downloads": [],
+    "downloads": [
+      {
+        "category": "base",
+        "host": "akr",
+        "url": "https://akirabox.com/M2BGwPAPmj40/file"
+      },
+      {
+        "category": "update",
+        "host": "akr",
+        "url": "https://akirabox.com/b5OzdVDWmB8L/file"
+      },
+      {
+        "category": "DLC de Campanha e Operações Especiais",
+        "host": "akira",
+        "url": "https://akirabox.to/jar3XL9vZ32d/file"
+      },
+      {
+        "category": "DLC-de-Multijogador-e-Special-Ops",
+        "host": "akr",
+        "url": "https://akirabox.to/vgKGxL6E9G8Q/file"
+      },
+      {
+        "category": "DLC 2 para Multijogador",
+        "host": "akr",
+        "url": "https://akirabox.to/EL73gAv9yG9B/file"
+      },
+      {
+        "category": "DLC de Operações Especiais",
+        "host": "akira",
+        "url": "https://akirabox.to/0Pdzy9OwLzeA/file"
+      },
+      {
+        "category": "Campanha-DLC-PS4",
+        "host": "akr",
+        "url": "https://akirabox.to/E9Qz9kRZWmOL/file"
+      },
+      {
+        "category": "Pacote Multijogador",
+        "host": "akr",
+        "url": "https://akirabox.to/b5Ozdp6DazB8/file"
+      }
+    ],
+    "cusa": "CUSA08829",
     "version": "1.67"
   },
   {
-    "title": "Efootball 2026 PS4",
+    "title": "Efootball 2026",
     "cover_image": "https://cdn.awsli.com.br/2500x2500/2678/2678721/produto/346326312/img_3257-n59swx43h1.png",
     "metadata": {
       "platform": "ps4",
       "size": "71,7 GB",
-      "description": "Idiomas: Inglês, Espanhol Latino, Português Brasileiro, Francês.\n\nNOTA: Remova a versão antiga (Jogo + Arquivo de Save) e instale a nova versão.\n\nPatch 2026 (PES2021) – Atualização de Inverno REV 1 (5.05/6.72/7.02/7.55/9.00/11.00/13.00)"
+      "description": "NOTA: Remova a versão antiga (Jogo + Arquivo de Save) e instale a nova versão.\n\nPatch 2026 (PES2021) – Atualização de Inverno REV 1 (5.05/6.72/7.02/7.55/9.00/11.00/13.00)"
     },
     "downloads": [
       {
