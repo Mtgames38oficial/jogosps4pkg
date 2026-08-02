@@ -51348,5 +51348,36 @@
     ],
     "cusa": "CUSA10326",
     "version": "1.02"
+  },
+  {
+    "title": "Far Cry 5",
+    "cover_image": "https://www.superpsx.com/wp-content/uploads/2018/09/Far-Cry-5-PS4-PKG.webp",
+    "metadata": {
+      "platform": "PlayStation 4",
+      "genre": "Tiro em primeira pessoa",
+      "mode": "Um jogador, Multijogador",
+      "release_date": "27 de março de 2018",
+      "size": "34 GB",
+      "description": "Idioma (Voz) ⇛\tInglês-Espanhol-Português (Br)\n\nMenu e legendas ⇛\tInglês-Espanhol-Francês-Português (Br)"
+    },
+    "downloads": [
+      {
+        "category": "base",
+        "host": "akir",
+        "url": "https://akirabox.com/LK0G1yqdG917/file"
+      },
+      {
+        "category": "update",
+        "host": "akr",
+        "url": "https://akirabox.com/l5YzM41Q3yOA/file"
+      },
+      {
+        "category": "DLC (em zip)",
+        "host": "akr",
+        "url": "https://akirabox.com/l76mZN6omanY/file"
+      }
+    ],
+    "cusa": "CUSA05904",
+    "version": "v1.19"
   }
 ]
