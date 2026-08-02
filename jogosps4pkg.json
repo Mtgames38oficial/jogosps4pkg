@@ -51321,5 +51321,32 @@
     ],
     "cusa": "CUSA18676",
     "version": "N/A"
+  },
+  {
+    "title": "Far Cry 3 Classic Edition",
+    "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/09/Far-Cry_3-Classic-Edition-PS4-PKG.webp",
+    "metadata": {
+      "platform": "PlayStation 4",
+      "genre": "Tiro em primeira pessoa, ação e aventura",
+      "mode": "Um jogador, Multijogador",
+      "release_date": "26 de junho de 2018",
+      "size": "6,79 GB",
+      "firmware": "5.05 +",
+      "description": "Áudio ⇛\tAlemão, russo, inglês, italiano, francês, espanhol\n\n\nLegendas ⇛\tAlemão, norueguês, sueco, russo, coreano, chinês tradicional, inglês, italiano, português (Brasil), francês, chinês simplificado, espanhol, dinamarquês, holandês"
+    },
+    "downloads": [
+      {
+        "category": "BASE",
+        "host": "viki",
+        "url": "https://vikingfile.com/f/ypN7FAI8Ph"
+      },
+      {
+        "category": "Update v1.02 ⇛",
+        "host": "viki",
+        "url": "https://vikingfile.com/f/0j0Uydc8wy"
+      }
+    ],
+    "cusa": "CUSA10326",
+    "version": "1.02"
   }
 ]
