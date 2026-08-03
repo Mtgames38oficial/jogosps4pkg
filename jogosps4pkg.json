@@ -23455,50 +23455,65 @@
     "title": "God of War Ragnarok PS4",
     "page_url": "https://akirabox.com/5pVzNn0Xz7wv/file",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/09/God-of-War-Ragnar_k-PS4-PKG.webp",
-    "trailer": "",
     "metadata": {
-      "version": "God of War Ragnarok",
-      "update": "v1.00",
+      "size": "110GB",
       "firmware": "N/A",
-      "description": "God of War Ragnarok | Gênero: Action-adventure, Hack and Slash | Modo: Single-player | Lançamento: November 9, 2022",
-      "size": "102,45 GB"
+      "description": "God of War Ragnarok | Gênero: Action-adventure, Hack and Slash | Modo: Single-player | Lançamento: November 9, 2022"
     },
     "downloads": [
       {
         "category": "Game",
-        "host": "AKR",
-        "url": "https://akirabox.com/5pVzNn0Xz7wv/file"
+        "host": "filekeeper",
+        "url": "https://filekeeper.net/download"
       },
       {
-        "category": "Update v6.00",
-        "host": "AKR",
-        "url": "https://akirabox.com/0KezkovW1zD1/file"
-      },
-      {
-        "category": "DLC: DLC",
-        "host": "AKR",
-        "url": "https://akirabox.com/M2BGwq4b3j40/file"
-      },
-      {
-        "category": "DLC: DLC Valhalla",
-        "host": "AKR",
-        "url": "https://akirabox.com/2bJG8ZWQ3OBE/file"
-      },
-      {
-        "category": "DLC: Update v6.00 (9.00+) + All DLC",
-        "host": "AKR",
-        "url": "https://akirabox.com/0KezkovW1zD1/file"
+        "category": "Atualização v6.00 (9.00+) + Todos os DLCs",
+        "host": "filekeeper",
+        "url": "https://filekeeper.net/sls4825jaqws/[SuperPSX]-God.of.War.Ragnarok-CUSA34384-USA-Update-v6.00-(9.00+)-PS4.pkg"
       }
     ],
-    "version": "God of War Ragnarok",
     "languages": {
       "audio": [
-        "Inglês"
+        "Inglês",
+        "francês",
+        "(França)",
+        "português",
+        "(Brasil)",
+        "espanhol",
+        "(México)"
       ],
       "text": [
-        "Inglês"
+        "Árabe",
+        "chinês",
+        "(simplificado)",
+        "chinês",
+        "(tradicional)",
+        "croata",
+        "tcheco",
+        "holandês",
+        "inglês",
+        "francês",
+        "(França)",
+        "alemão",
+        "grego",
+        "húngaro",
+        "italiano",
+        "japonês",
+        "coreano",
+        "polonês",
+        "português",
+        "(Brasil)",
+        "português",
+        "(Portugal)",
+        "russo",
+        "espanhol",
+        "(México)",
+        "tailandês",
+        "turco"
       ]
-    }
+    },
+    "cusa": "110GB",
+    "version": "v6.05"
   },
   {
     "title": "Godzilla PS4",
