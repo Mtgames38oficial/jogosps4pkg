@@ -58240,43 +58240,58 @@
     }
   },
   {
-    "title": "The Last of Us Part 2 PS4",
+    "title": "The Last of Us Part II PS4",
     "page_url": "https://akirabox.com/qLQ364paEG19/file",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/03/The-Last-of-Us-Part-2-PS4-PKG.webp",
-    "trailer": "",
     "metadata": {
-      "version": "The Last of Us 2",
-      "update": "v1.00",
+      "size": "90GB",
       "firmware": "1.09",
-      "description": "The Last of Us 2 | Gênero: Action-adventure | Modo: Single Player | Lançamento: June 19, 2020",
-      "size": "83,82 GB"
+      "description": "The Last of Us 2 | Gênero: Action-adventure | Modo: Single Player | Lançamento: June 19, 2020"
     },
     "downloads": [
       {
         "category": "Game",
         "host": "AKR",
-        "url": "https://akirabox.com/qLQ364paEG19/file"
+        "url": "https://akirabox.com/qw1zenvjeGXy/file"
       },
       {
-        "category": "Update v1.00",
+        "category": "Update v1.09 (7.50+)",
         "host": "AKR",
-        "url": "https://akirabox.com/qw1zeYPxzXyn/file"
+        "url": "https://akirabox.com/RMKGJDP2w31o/file"
       },
       {
-        "category": "DLC: Pre-Order DLC & Bonus",
+        "category": "Update v1.09 (Fix.5.05-6.72)",
         "host": "AKR",
+        "url": "https://akirabox.com/2WVGrQnxEzkx/file"
+      },
+      {
+        "category": "Reserve já o seu DLC e receba bônus",
+        "host": "akr",
         "url": "https://akirabox.com/jJD3VWDKlza5/file"
       }
     ],
-    "version": "The Last of Us 2",
     "languages": {
       "audio": [
-        "Inglês"
+        "Espanhol",
+        "(México)",
+        "Francês",
+        "(França)",
+        "Inglês",
+        "(Português",
+        "Brasil)"
       ],
       "text": [
-        "Inglês"
+        "Espanhol",
+        "(México)",
+        "Francês",
+        "(França)",
+        "Inglês",
+        "(Português",
+        "Brasil)"
       ]
-    }
+    },
+    "cusa": "CUSA07820",
+    "version": "1.09"
   },
   {
     "title": "The Last of Us Remastered PS4",
