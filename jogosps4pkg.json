@@ -68531,8 +68531,7 @@
       "genre": "Ação",
       "release_date": "2018",
       "size": "98,64 GB",
-      "firmware": "6.72+",
-      "description": "Voz: Inglês\nMenu e Legendas: Inglês, Francês, Italiano, Alemão, Espanhol, Dinamarquês, Finlandês, Holandês, Norueguês, Polonês, Tcheco, Português, Russo, Sueco, Grego, Árabe, Japonês, Coreano, Chinês"
+      "firmware": "6.72+"
     },
     "downloads": [
       {
@@ -68551,16 +68550,34 @@
         "url": "https://www.mediafire.com/file/xunp2chcq00ozx0/Mod-Menu-Red_Dead-Mtg380.pkg/file"
       }
     ],
-    "cusa": "CUSA08519",
-    "version": "1.32",
     "languages": {
       "audio": [
         "Inglês"
       ],
       "text": [
-        "Inglês"
+        "Inglês",
+        "Francês",
+        "Italiano",
+        "Alemão",
+        "Espanhol",
+        "Dinamarquês",
+        "Finlandês",
+        "Holandês",
+        "Norueguês",
+        "Polonês",
+        "Tcheco",
+        "Português",
+        "Russo",
+        "Sueco",
+        "Grego",
+        "Árabe",
+        "Japonês",
+        "Coreano",
+        "Chinês"
       ]
-    }
+    },
+    "cusa": "CUSA08519",
+    "version": "1.32"
   },
   {
     "title": "Quake",
