@@ -58326,10 +58326,28 @@
     ],
     "languages": {
       "audio": [
-        "Inglês"
+        "Inglês",
+        "alemão",
+        "espanhol",
+        "italiano",
+        "francês",
+        "português"
       ],
       "text": [
-        "Inglês"
+        "nglês",
+        "espanhol",
+        "italiano",
+        "francês",
+        "alemão",
+        "dinamarquês",
+        "português",
+        "holandês",
+        "finlandês",
+        "norueguês",
+        "sueco",
+        "tcheco",
+        "grego",
+        "turco"
       ]
     },
     "cusa": "CUSA00552",
