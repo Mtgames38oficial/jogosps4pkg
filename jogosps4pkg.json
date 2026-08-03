@@ -51379,5 +51379,36 @@
     ],
     "cusa": "CUSA05904",
     "version": "v1.19"
+  },
+  {
+    "title": "Far Cry Primal",
+    "cover_image": "https://www.superpsx.com/wp-content/uploads/2018/05/Far-Cry-Primal-PS4-PKG.webp",
+    "metadata": {
+      "platform": "PlayStation 4",
+      "genre": "Ação e aventura",
+      "mode": "Um jogador",
+      "release_date": "23 de fevereiro de 2016",
+      "size": "10,7 GB",
+      "description": "Voz ⇛\tInglês\n\n\nMenu e legendas ⇛\tEng, Ger, Ita, Spa, Fre, Dut, Dan, Nor, Pol, Por, Swe, Fin, Chi, Kor"
+    },
+    "downloads": [
+      {
+        "category": "Game (5.05+",
+        "host": "akr",
+        "url": "https://akirabox.com/7d5GLEW15mxR/file"
+      },
+      {
+        "category": "Update v1.03",
+        "host": "akr",
+        "url": "https://akirabox.com/LK0G1eaqJG91/file"
+      },
+      {
+        "category": "DLC (em .rar)",
+        "host": "akr",
+        "url": "https://akirabox.com/E9Qz91AvbzOL/file"
+      }
+    ],
+    "cusa": "CUSA03309",
+    "version": "v1.03"
   }
 ]
