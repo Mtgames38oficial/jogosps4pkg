@@ -33639,10 +33639,20 @@
     ],
     "languages": {
       "audio": [
-        "Inglês"
+        "Inglês",
+        "francês",
+        "português",
+        "brasileiro",
+        "espanhol",
+        "latino-americano"
       ],
       "text": [
-        "Inglês"
+        "Inglês",
+        "francês",
+        "português",
+        "brasileiro",
+        "espanhol",
+        "latino-americano"
       ]
     },
     "cusa": "CUSA02299",
