@@ -68637,5 +68637,67 @@
     },
     "cusa": "CUSA00411",
     "version": "1.56"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/09/Red-Dead-Redemption-2-PS4-PKG.webp",
+    "metadata": {
+      "platform": "PlayStation 4",
+      "genre": "Ação e aventura",
+      "mode": "Um jogador, Multijogador",
+      "release_date": "26 de outubro de 2018",
+      "size": "79,60 GB",
+      "firmware": "6.72+"
+    },
+    "downloads": [
+      {
+        "category": "Game (6.72+)",
+        "host": "akr",
+        "url": "https://akirabox.com/7d5GLlpPbGxR/file"
+      },
+      {
+        "category": "Update 1.29 (6.72+)",
+        "host": "akr",
+        "url": "https://akirabox.com/qLQ36KLM1z19/file"
+      },
+      {
+        "category": "Update 1.29 (Fix 5.05)",
+        "host": "akr",
+        "url": "https://akirabox.com/b5Ozd27ERmB8/file"
+      },
+      {
+        "category": "DLCs",
+        "host": "akr",
+        "url": "https://akirabox.com/EL73g0V5nz9B/folder"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "Inglês"
+      ],
+      "text": [
+        "Inglês",
+        "francês",
+        "italiano",
+        "alemão",
+        "espanhol",
+        "dinamarquês",
+        "finlandês",
+        "holandês",
+        "norueguês",
+        "polonês",
+        "tcheco",
+        "português",
+        "russo",
+        "sueco",
+        "grego",
+        "árabe",
+        "japonês",
+        "coreano",
+        "chinês"
+      ]
+    },
+    "cusa": "CUSA03041",
+    "version": "v1.29"
   }
 ]
