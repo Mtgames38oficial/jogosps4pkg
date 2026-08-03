@@ -23322,32 +23322,30 @@
     }
   },
   {
-    "title": "God Of War PS2 – PS4 Ported",
+    "title": "God Of War PS2 – PS4",
     "page_url": "https://www.superpsx.com/god-of-war-ps2-ps4-port/",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/God-Of-War.jpg",
-    "trailer": "",
     "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
-      "firmware": "N/A",
-      "description": " | Lançamento: April 20, 2018"
+      "firmware": "5.05 +",
+      "description": "| Lançamento: April 20, 2018"
     },
     "downloads": [
       {
         "category": "Game",
         "host": "AKR",
-        "url": "https://www.superpsx.com/god-of-war-ps2-ps4-port/"
+        "url": "https://akirabox.com/BnkmW4aZP3R0/file"
       }
     ],
-    "version": "PS4",
     "languages": {
       "audio": [
-        "Inglês"
+        "Inglês."
       ],
       "text": [
-        "Inglês"
+        "Inglês."
       ]
-    }
+    },
+    "cusa": "SCUS97399",
+    "version": "1.00"
   },
   {
     "title": "God of Rock PS4",
