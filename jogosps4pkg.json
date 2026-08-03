@@ -44150,13 +44150,10 @@
     "title": "Red Dead Redemption PS4",
     "page_url": "https://akirabox.com/M2BGwWwPGj40/file",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/03/Red-Dead-Redemption-PS4-PKG.webp",
-    "trailer": "",
     "metadata": {
-      "version": "Red Dead Redemption",
-      "update": "v1.00",
+      "size": "8,40 GB",
       "firmware": "1.04",
-      "description": "Red Dead Redemption | Gênero: Action-adventure | Modo: Single-player, Multiplayer | Lançamento: August 17, 2023",
-      "size": "8,40 GB"
+      "description": "Red Dead Redemption | Gênero: Action-adventure | Modo: Single-player, Multiplayer | Lançamento: August 17, 2023"
     },
     "downloads": [
       {
@@ -44165,20 +44162,38 @@
         "url": "https://akirabox.com/M2BGwWwPGj40/file"
       },
       {
-        "category": "Update v1.00",
+        "category": "Update 1.04 (9.00/11.00)",
         "host": "AKR",
         "url": "https://akirabox.com/7d5GLvrb3xRJ/file"
+      },
+      {
+        "category": "Update 1.04 (Fix 5.05/6.72/7.xx/8.x)",
+        "host": "akr",
+        "url": "https://akirabox.com/dZxG5e1PGVjK/file"
       }
     ],
-    "version": "Red Dead Redemption",
     "languages": {
       "audio": [
         "Inglês"
       ],
       "text": [
-        "Inglês"
+        "Inglês",
+        "francês",
+        "italiano",
+        "alemão",
+        "espanhol",
+        "polonês",
+        "português",
+        "(Brasil)",
+        "russo",
+        "espanhol",
+        "(Latino)",
+        "coreano",
+        "chinês"
       ]
-    }
+    },
+    "cusa": "CUSA36843",
+    "version": "Red Dead Redemption"
   },
   {
     "title": "Redeemer Enhanced Edition PS4",
