@@ -51412,5 +51412,28 @@
     ],
     "cusa": "CUSA03309",
     "version": "v1.03"
+  },
+  {
+    "title": "Base (em zip)",
+    "cover_image": "https://dlpsgame.com/wp-content/uploads/2024/11/3x.jpg",
+    "metadata": {
+      "platform": "PS4",
+      "release_date": "2006",
+      "size": "3.40 GB"
+    },
+    "downloads": [
+      {
+        "category": "Base (em zip)",
+        "host": "akr",
+        "url": "https://akirabox.com/k0embKj9W3Vb/file"
+      },
+      {
+        "category": "Savedata concluído (opcional) (em zip)",
+        "host": "akr",
+        "url": "https://akirabox.com/Pbe3PgdkLmlX/file"
+      }
+    ],
+    "cusa": "SLUS21447",
+    "version": "1.00"
   }
 ]
