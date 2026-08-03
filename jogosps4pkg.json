@@ -68585,5 +68585,57 @@
     },
     "cusa": "CUSA24594",
     "version": "v1.08"
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "cover_image": "https://www.superpsx.com/wp-content/uploads/2023/08/GTA-5-PS4-PKG.webp",
+    "trailer": "https://youtu.be/hBvMSP7cI-Q?si=p8qHeFkaKQU9gm3Z",
+    "metadata": {
+      "platform": "PlayStation 4",
+      "genre": "Ação e aventura",
+      "mode": "Um jogador / Multijogador",
+      "release_date": "18 de novembro de 2014",
+      "size": "76 GB",
+      "firmware": "5.05+"
+    },
+    "downloads": [
+      {
+        "category": "game",
+        "host": "akr",
+        "url": "https://akirabox.com/b5OzdjeXAmB8/file"
+      },
+      {
+        "category": "Update v1.56 (5.05+)",
+        "host": "akr",
+        "url": "https://akirabox.com/0KezkEvgemD1/file"
+      },
+      {
+        "category": "DLCs",
+        "host": "akr",
+        "url": "https://akirabox.com/0PdzyvROqGeA/file"
+      },
+      {
+        "category": "Pack mod menu (opcional)",
+        "host": "mediafire",
+        "url": "https://www.mediafire.com/file/6g0qyrewy4y2pvb/Pack-mod_menu-gtav-on-off-Mtg380.pkg/file"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "Inglês"
+      ],
+      "text": [
+        "Inglês",
+        "francês",
+        "alemão",
+        "italiano",
+        "polonês",
+        "português",
+        "russo",
+        "espanhol"
+      ]
+    },
+    "cusa": "CUSA00411",
+    "version": "1.56"
   }
 ]
