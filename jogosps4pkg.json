@@ -33600,13 +33600,10 @@
     "title": "Marvels Spider Man PS4",
     "page_url": "https://akirabox.com/2WVGrrlqGkx7/file",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/03/Marvels-Spider-Man-PS4-PKG.webp",
-    "trailer": "",
     "metadata": {
-      "version": "CUSA02299",
-      "update": "vCUSA02299",
-      "firmware": "N/A",
-      "description": "Marvel’s Spider-Man | Gênero: Action-adventure | Modo: Single-player | Lançamento: September 7, 2018",
-      "size": "37,75 GB"
+      "size": "40.53 GB",
+      "firmware": "5.05",
+      "description": "Marvel’s Spider-Man | Gênero: Action-adventure | Modo: Single-player | Lançamento: September 7, 2018"
     },
     "downloads": [
       {
@@ -33615,22 +33612,31 @@
         "url": "https://akirabox.com/2WVGrrlqGkx7/file"
       },
       {
-        "category": "Update v1.19",
+        "category": "Update v1.19 (6.72+)",
         "host": "AKR",
         "url": "https://akirabox.com/9AqGQvygmMn6/file"
       },
       {
-        "category": "DLC: DLC (1+2+3) + DLC Preopred",
-        "host": "AKR",
-        "url": "https://akirabox.com/l76mZjQomanY/folder"
+        "category": "Update v1.19 (6.72+)(60fps)",
+        "host": "akr",
+        "url": "https://akirabox.com/BnkmWBy1GR0y/file"
       },
       {
-        "category": "DLC: DLC (1+2+3) + DLC Preorder",
-        "host": "AKR",
-        "url": "https://akirabox.com/2WVGrVdqGkx7/file"
+        "category": "Update v1.19 (Fix 5.05)",
+        "host": "akr",
+        "url": "https://akirabox.com/0rpmvJ9AmRgZ/file"
+      },
+      {
+        "category": "Update v1.19 (Fix 5.05)(60fps)",
+        "host": "akr",
+        "url": "https://akirabox.com/jJD3Vxy0Ga5Q/file"
+      },
+      {
+        "category": "DLC (1+2+3) + DLC Preopred",
+        "host": "akr",
+        "url": "https://akirabox.com/l76mZjQomanY/folder"
       }
     ],
-    "version": "CUSA02299",
     "languages": {
       "audio": [
         "Inglês"
@@ -33638,7 +33644,9 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "cusa": "CUSA02299",
+    "version": "v1.19"
   },
   {
     "title": "Mass Effect Andromeda PS4",
