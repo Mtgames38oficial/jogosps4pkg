@@ -58294,35 +58294,36 @@
     "version": "1.09"
   },
   {
-    "title": "The Last of Us Remastered PS4",
+    "title": "The Last of Us Remastered",
     "page_url": "https://akirabox.com/obj3jdYdGDxJ/file",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/09/The-Last-of-Us-Remastered-PS4-PKG.webp",
-    "trailer": "",
+    "cover_image": "https://3.bp.blogspot.com/-x-6UC6CVOy8/WoVl_gUfiuI/AAAAAAAAK1Q/Emqv6Mu4jXwLbDc8B11EOabRpCvda3buQCLcBGAs/s1600/41.jpg",
     "metadata": {
-      "version": "The Last of Us Remas",
-      "update": "v1.00",
+      "size": "45,00 GB",
       "firmware": "N/A",
-      "description": "The Last of Us Remastered | Gênero: Action-adventure, Survival Horror | Modo: Single-player, Multiplayer | Lançamento: July 29, 2014",
-      "size": "41,91 GB"
+      "description": "The Last of Us Remastered | Gênero: Action-adventure, Survival Horror | Modo: Single-player, Multiplayer | Lançamento: July 29, 2014"
     },
     "downloads": [
       {
         "category": "Game",
         "host": "AKR",
-        "url": "https://akirabox.com/obj3jdYdGDxJ/file"
+        "url": "https://akirabox.com/2WVGrDqB43kx/file"
       },
       {
         "category": "Update v1.11",
         "host": "AKR",
-        "url": "https://akirabox.com/RMKGJQPPz1oP/file"
+        "url": "https://akirabox.com/M2BGwoKMGj40/file"
       },
       {
-        "category": "DLC: ALL DLCs",
+        "category": "Update 1.11 (Dev Menu)",
         "host": "AKR",
-        "url": "https://akirabox.com/qLQ365KBm19j/folder"
+        "url": "https://akirabox.com/2WVGrMbEzkx7/file"
+      },
+      {
+        "category": "DLC: Cloudfile",
+        "host": "akr",
+        "url": "https://akirabox.com/QN9mE8kyG6dW/file"
       }
     ],
-    "version": "The Last of Us Remas",
     "languages": {
       "audio": [
         "Inglês"
@@ -58330,7 +58331,9 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "cusa": "CUSA00552",
+    "version": "The Last of Us Remas"
   },
   {
     "title": "The Legend of Dragoon PS4",
