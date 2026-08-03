@@ -68551,8 +68551,7 @@
       "mode": "Um jogador / Multijogador",
       "release_date": "19 de agosto de 2021",
       "size": "1 GB",
-      "firmware": "8.50+",
-      "description": "Legendas ⇛\tInglês, francês, alemão, italiano, russo, espanhol"
+      "firmware": "8.50+"
     },
     "downloads": [
       {
@@ -68566,15 +68565,25 @@
         "url": "https://akirabox.com/9QWmpX9NmEB6/file"
       }
     ],
-    "cusa": "CUSA24594",
-    "version": "v1.08",
     "languages": {
       "audio": [
-        "Inglês"
+        "Inglês",
+        "francês",
+        "alemão",
+        "italiano",
+        "russo",
+        "espanhol"
       ],
       "text": [
-        "Inglês"
+        "Inglês",
+        "francês",
+        "alemão",
+        "italiano",
+        "russo",
+        "espanhol"
       ]
-    }
+    },
+    "cusa": "CUSA24594",
+    "version": "v1.08"
   }
 ]
