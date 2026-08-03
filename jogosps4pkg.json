@@ -51530,5 +51530,32 @@
     ],
     "cusa": "CUSA08519",
     "version": "1.32"
+  },
+  {
+    "title": "Quake",
+    "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/09/Quake-PS4-PKG.webp",
+    "metadata": {
+      "platform": "PlayStation 4",
+      "genre": "Tiro em primeira pessoa",
+      "mode": "Um jogador / Multijogador",
+      "release_date": "19 de agosto de 2021",
+      "size": "1 GB",
+      "firmware": "8.50+",
+      "description": "Legendas ⇛\tInglês, francês, alemão, italiano, russo, espanhol"
+    },
+    "downloads": [
+      {
+        "category": "Game (8.50+)",
+        "host": "akr",
+        "url": "https://akirabox.com/E9Qz9kRjWmOL/file"
+      },
+      {
+        "category": "Update v1.08 (8.50+)",
+        "host": "akr",
+        "url": "https://akirabox.com/9QWmpX9NmEB6/file"
+      }
+    ],
+    "cusa": "CUSA24594",
+    "version": "v1.08"
   }
 ]
