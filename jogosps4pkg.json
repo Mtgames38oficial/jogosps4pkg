@@ -51527,36 +51527,5 @@
     ],
     "cusa": "CUSA08519",
     "version": "1.32"
-  },
-  {
-    "title": "Red Dead Redemption 2",
-    "cover_image": "https://dlpsgame.com/wp-content/uploads/2024/12/10.jpg",
-    "metadata": {
-      "platform": "ps4",
-      "genre": "Ação",
-      "release_date": "2018",
-      "size": "98,64 GB",
-      "firmware": "6.72+",
-      "description": "Voz: Inglês\nMenu e Legendas: Inglês, Francês, Italiano, Alemão, Espanhol, Dinamarquês, Finlandês, Holandês, Norueguês, Polonês, Tcheco, Português, Russo, Sueco, Grego, Árabe, Japonês, Coreano, Chinês"
-    },
-    "downloads": [
-      {
-        "category": "Game",
-        "host": "akr",
-        "url": "https://akirabox.to/l76mZVwpZman/file"
-      },
-      {
-        "category": "Update 1.32",
-        "host": "akr",
-        "url": "https://akirabox.com/gXeGOr56zAa7/file"
-      },
-      {
-        "category": "Mod menu (opcional)",
-        "host": "mediafire",
-        "url": "https://www.mediafire.com/file/xunp2chcq00ozx0/Mod-Menu-Red_Dead-Mtg380.pkg/file"
-      }
-    ],
-    "cusa": "CUSA08519",
-    "version": "1.32"
   }
 ]
