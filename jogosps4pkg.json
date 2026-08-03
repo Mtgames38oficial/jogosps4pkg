@@ -22283,16 +22283,23 @@
         "url": "https://www.mediafire.com/file/6g0qyrewy4y2pvb/Pack-mod_menu-gtav-on-off-Mtg380.pkg/file"
       }
     ],
-    "cusa": "CUSA00419",
-    "version": "1.56",
     "languages": {
       "audio": [
         "Inglês"
       ],
       "text": [
-        "Inglês"
+        "Inglês",
+        "francês",
+        "alemão",
+        "italiano",
+        "polonês",
+        "português",
+        "russo",
+        "espanhol"
       ]
-    }
+    },
+    "cusa": "CUSA00419",
+    "version": "1.56"
   },
   {
     "title": "GYLT PS4",
