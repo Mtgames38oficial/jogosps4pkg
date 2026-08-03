@@ -17568,26 +17568,28 @@
     "title": "God of War 3 Remastered PS4",
     "page_url": "https://akirabox.com/b5Ozdpp4zB8L/file",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/09/God-of-War-III-Remastered-PS4-PKG.webp",
-    "trailer": "",
     "metadata": {
-      "version": "God of War 3 Remaste",
-      "update": "v1.01",
-      "firmware": "N/A",
-      "description": "God of War 3 Remastered | Gênero: Action-adventure, hack and slash | Modo: Single-player | Lançamento: July 14, 2015",
-      "size": "37,25 GB"
+      "platform": "PlayStation 4",
+      "genre": "Ação e aventura, pancadaria e combate corpo a corpo.",
+      "mode": "Um jogador",
+      "release_date": "14 de julho de 2015",
+      "size": "40 GB",
+      "firmware": "1.02+",
+      "description": "Idioma (Voz) ⇛\tInglês, espanhol, italiano, francês, alemão, holandês, polonês, português, russo\n\n\nMenu e legendas ⇛\tInglês, espanhol, italiano, francês, alemão, holandês, polonês, português, russo, turco"
     },
     "downloads": [
       {
-        "category": "Game",
+        "category": "Game (v1.01)",
         "host": "AKR",
         "url": "https://akirabox.com/b5Ozdpp4zB8L/file"
       },
       {
-        "category": "Update v1.00",
+        "category": "Update 1.02",
         "host": "AKR",
         "url": "https://akirabox.com/RMKGJOQwm1oP/file"
       }
     ],
+    "cusa": "CUSA01715",
     "version": "God of War 3 Remaste"
   },
   {
