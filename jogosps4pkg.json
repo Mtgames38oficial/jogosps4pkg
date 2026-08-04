@@ -68359,30 +68359,58 @@
     "title": "Efootball 2026 PS4",
     "cover_image": "https://cdn.awsli.com.br/2500x2500/2678/2678721/produto/346326312/img_3257-n59swx43h1.png",
     "metadata": {
-      "platform": "ps4",
-      "size": "72,00 GB",
-      "description": "NOTA: Remova a versão antiga (Jogo + Arquivo de Save) e instale a nova versão."
+      "description": "NOTA: Remova a versão antiga (Jogo + Arquivo de Save) e instale a nova versão.\n\n\nAtenção, logo apos baixas todos os patch coloque todos os patch em uma unica pasta, e extraia somente a parte 1 que o restante ira unir"
     },
     "downloads": [
       {
-        "category": "base",
+        "category": "Base pkg",
         "host": "akira",
         "url": "https://akirabox.com/qLQ366W7Y319/file"
       },
       {
         "category": "Patch 1 (2026  em rar)",
         "host": "akira",
-        "url": "https://akirabox.com/gXeGOrlejzAa/file"
+        "url": "https://akirabox.com/5pVzN4200m7w/file"
       },
       {
         "category": "Patch 2 (2026 em rar)",
         "host": "akira",
-        "url": "https://akirabox.com/obj3jl4NdGDx/file"
+        "url": "https://akirabox.com/wgWGqMo5xG4o/file"
+      },
+      {
+        "category": "patch 4 (2026 em rar)",
+        "host": "akr",
+        "url": "https://akirabox.com/qLQ36KR4wz19/file"
+      },
+      {
+        "category": "patch 5 (2026 em rar)",
+        "host": "akr",
+        "url": "https://akirabox.com/Zvqzl9ZA6GaD/file"
+      },
+      {
+        "category": "patch 6 (2026 em rar)",
+        "host": "akr",
+        "url": "https://akirabox.com/gXeGOo2a6GAa/file"
+      },
+      {
+        "category": "patch 7 (2026 em rar)",
+        "host": "akr",
+        "url": "https://akirabox.com/Z9dzBK2xnGk1/file"
       },
       {
         "category": "patch 3 (2026 em rar)",
         "host": "akira",
-        "url": "https://akirabox.com/rk9zKDKkQG0l/file"
+        "url": "https://akirabox.com/0JgG7PMl5moY/file"
+      },
+      {
+        "category": "patch 8 (2026 em rar)",
+        "host": "akr",
+        "url": "https://akirabox.com/EL73g0P6Ez9B/file"
+      },
+      {
+        "category": "patch 9 (2026 em rar)",
+        "host": "akr",
+        "url": "https://akirabox.com/2WVGr80143kx/file"
       }
     ],
     "languages": {
