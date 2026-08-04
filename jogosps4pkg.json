@@ -8631,30 +8631,44 @@
     "title": "Call of Duty Ghosts PS4",
     "page_url": "https://rootz.so/d/m0xw8",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2018/05/Call-of-Duty-Ghosts-PS4-PKG.webp",
-    "trailer": "",
     "metadata": {
-      "version": "Call of Duty Ghosts",
-      "update": "v1.00",
+      "size": "33 GB",
       "firmware": "N/A",
-      "description": "Call of Duty Ghosts | Gênero: First-person shooter | Modo: Single-player, Multiplayer | Lançamento: November 15, 2013",
-      "size": "30,73 GB"
+      "description": "Call of Duty Ghosts | Gênero: First-person shooter | Modo: Single-player, Multiplayer | Lançamento: November 15, 2013"
     },
     "downloads": [
       {
-        "category": "Game",
+        "category": "Game (5.05+)",
         "host": "AKR",
-        "url": "https://rootz.so/d/m0xw8"
+        "url": "https://akirabox.com/qLQ36KbvKz19/file"
+      },
+      {
+        "category": "Update v1.21 (5.05+)",
+        "host": "akr",
+        "url": "https://akirabox.com/ex5z21d2B3Kq/file"
+      },
+      {
+        "category": "Todos os DLCs",
+        "host": "akr",
+        "url": "https://akirabox.com/9AqGQ4knnzMn/folder"
       }
     ],
-    "version": "Call of Duty Ghosts",
     "languages": {
       "audio": [
-        "Inglês"
+        "nglês",
+        "francês",
+        "português",
+        "espanhol"
       ],
       "text": [
-        "Inglês"
+        "nglês",
+        "francês",
+        "português",
+        "espanhol"
       ]
-    }
+    },
+    "cusa": "CUSA00018",
+    "version": "v1.21"
   },
   {
     "title": "Call of Duty Infinite Warfare PS4",
