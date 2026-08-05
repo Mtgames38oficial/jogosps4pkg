@@ -68872,5 +68872,55 @@
       ]
     },
     "cusa": "SLES50613"
+  },
+  {
+    "title": "Black ps2=ps4",
+    "cover_image": "https://2.bp.blogspot.com/-2v2GMTzaXDE/XlTOfJy-TjI/AAAAAAAAZBg/O4a1xl_8KLEenjJiGxXGaQ2_De3-2x3uQCLcBGAsYHQ/s1600/15.jpg",
+    "metadata": {
+      "description": "Em PKG"
+    },
+    "downloads": [
+      {
+        "category": "PS2 para PS4",
+        "host": "Mediafire",
+        "url": "https://www.mediafire.com/file/0ss14jlnodhi2eg/[Downloadgameps3.com]-BLACK_SLUS21376_00-SCPS560030000001-A0100-V0100.pkg/file"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "Inglês"
+      ],
+      "text": [
+        "Inglês"
+      ]
+    },
+    "cusa": "SLUS21376",
+    "version": "1.00"
+  },
+  {
+    "title": "Black ps2=ps4",
+    "cover_image": "https://2.bp.blogspot.com/-2v2GMTzaXDE/XlTOfJy-TjI/AAAAAAAAZBg/O4a1xl_8KLEenjJiGxXGaQ2_De3-2x3uQCLcBGAsYHQ/s1600/15.jpg",
+    "metadata": {
+      "platform": "ps4",
+      "size": "1.27 GB",
+      "description": "Em PKG"
+    },
+    "downloads": [
+      {
+        "category": "PS2 para PS4",
+        "host": "Mediafire",
+        "url": "https://www.mediafire.com/file/0ss14jlnodhi2eg/[Downloadgameps3.com]-BLACK_SLUS21376_00-SCPS560030000001-A0100-V0100.pkg/file"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "Inglês"
+      ],
+      "text": [
+        "Inglês"
+      ]
+    },
+    "cusa": "SLUS21376",
+    "version": "1.00"
   }
 ]
