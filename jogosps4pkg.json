@@ -68359,18 +68359,29 @@
     "title": "EFootball PES 2026 PS4",
     "cover_image": "https://cdn.awsli.com.br/2500x2500/2678/2678721/produto/346326312/img_3257-n59swx43h1.png",
     "metadata": {
+      "size": "83,32 GB",
       "description": "NOTA: Remova a versão antiga (Jogo + Arquivo de Save) e instale a nova versão.\n\nInstale diretamente no seu console utilizando o app NovaPS para android ou pc"
     },
     "downloads": [
       {
         "category": "Base pkg",
         "host": "VikingFile",
-        "url": "https://vikingfile.com/f/X42ZJdks28"
+        "url": "https://vikingfile.com/f/Hmb7xMjMsE"
       },
       {
         "category": "Patch pkg",
         "host": "VikingFile",
-        "url": "https://vikingfile.com/f/QGORIPfxM0"
+        "url": "https://vikingfile.com/f/3FLjXsv2lu"
+      },
+      {
+        "category": "Base pkg",
+        "host": "RootZ",
+        "url": "https://rootz.so/d/1wQAD2"
+      },
+      {
+        "category": "Patch",
+        "host": "RootZ",
+        "url": "https://rootz.so/d/1PPXmq"
       }
     ],
     "languages": {
