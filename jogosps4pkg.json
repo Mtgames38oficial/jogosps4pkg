@@ -68574,6 +68574,7 @@
   },
   {
     "title": "Need for Speed Carbon\nCollectors Edition",
+    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Need-for-Speed-Carbon-Collectors-Edition.jpg",
     "metadata": {
       "platform": "PS2 para PS4",
       "genre": "corrida",
@@ -68587,8 +68588,6 @@
         "url": "https://www.mediafire.com/file/v2twvcefm7pzy01/[DLPSGAME.COM]-UP9000-SLUS21494_00-SLUS214940000001-A0100-V0100.pkg/file"
       }
     ],
-    "cusa": "SLUS21494",
-    "version": "1.00",
     "languages": {
       "audio": [
         "Inglês"
@@ -68596,7 +68595,9 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "cusa": "SLUS21494",
+    "version": "1.00"
   },
   {
     "title": "Red Dead Redemption II",
