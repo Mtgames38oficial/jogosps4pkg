@@ -68927,5 +68927,44 @@
     },
     "cusa": "CUSA16596",
     "version": "v1.61"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "cover_image": "https://1.bp.blogspot.com/-VLfWaFELuBg/ZkRC-VZJz3I/AAAAAAAAAAc/nH0dl11os_A_zCWwYc-hoIkctuiIcPpzQCNcBGAsYHQ/s0/13.jpg",
+    "metadata": {
+      "size": "63,00 GB"
+    },
+    "downloads": [
+      {
+        "category": "Base pkg",
+        "host": "AkiraBox",
+        "url": "https://akirabox.com/Zvqzlo2rK3aD/file"
+      },
+      {
+        "category": "Fix (correção pkg) obrigatorio",
+        "host": "AkiraBox",
+        "url": "https://akirabox.com/Z9dzBVJwgzk1/file"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "inglês",
+        "português",
+        "brasileiro",
+        "francês",
+        "espanhol."
+      ],
+      "text": [
+        "inglês",
+        "português",
+        "brasileiro",
+        "espanhol",
+        "latino-americano",
+        "francês",
+        "polonês"
+      ]
+    },
+    "cusa": "CUSA16596",
+    "version": "v1.61"
   }
 ]
