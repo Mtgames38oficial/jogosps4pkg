@@ -8105,15 +8105,12 @@
     }
   },
   {
-    "title": "Bully PS2 – PS4 Ported",
+    "title": "Bully PS2 – PS4",
     "page_url": "https://www.superpsx.com/bully-ps2-ps4-ported/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Bully.jpg",
-    "trailer": "",
+    "cover_image": "https://1.bp.blogspot.com/-2GL-m-KD_KU/XENRTk_FwwI/AAAAAAAAY9A/ExabVzvuoMMGL22ZoQEN7BPGQLj2JG8_QCLcBGAs/s1600/88.jpg",
     "metadata": {
-      "version": "CUSA03507",
-      "update": "v1.00",
       "firmware": "N/A",
-      "description": " | Lançamento: March 22, 2016"
+      "description": "| Lançamento: March 22, 2016"
     },
     "downloads": [
       {
@@ -8122,7 +8119,6 @@
         "url": "https://www.superpsx.com/bully-ps2-ps4-ported/"
       }
     ],
-    "version": "CUSA03507",
     "languages": {
       "audio": [
         "Inglês"
