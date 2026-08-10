@@ -8044,23 +8044,18 @@
   },
   {
     "title": "Buffy the Vampire Slayer: Chaos Bleeds PS2 – PS4 Ported",
-    "page_url": "https://www.superpsx.com/buffy-chaos-bleeds-ps2-ps4-port/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Buffy-the-Vampire-Slayer-Chaos-Bleeds.jpg",
-    "trailer": "",
+    "cover_image": "http://www.superpsx.com/wp-content/uploads/2026/04/Buffy-the-Vampire-Slayer-Chaos-Bleeds.jpg",
     "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
-      "firmware": "N/A",
-      "description": " | Lançamento: August 27, 2003"
+      "size": "2,7 GB",
+      "description": "| Lançamento: August 27, 2003"
     },
     "downloads": [
       {
         "category": "Game",
         "host": "AkiraBox",
-        "url": "https://www.superpsx.com/buffy-chaos-bleeds-ps2-ps4-port/"
+        "url": "https://akirabox.com/ex5z212bB3Kq/file"
       }
     ],
-    "version": "PS4",
     "languages": {
       "audio": [
         "Inglês"
