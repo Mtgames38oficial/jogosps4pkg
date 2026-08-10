@@ -68869,5 +68869,34 @@
     },
     "cusa": "SLUS21376",
     "version": "1.00"
+  },
+  {
+    "title": "Agony",
+    "cover_image": "https://1.bp.blogspot.com/--Tix_A2cPVo/XyOw_x5XZSI/AAAAAAAAARs/XZXh7rBjR3IyChPTR152yimDxymo87ZSwCLcBGAsYHQ/s1600/8.jpg",
+    "metadata": {
+      "size": "19,00 GB"
+    },
+    "downloads": [
+      {
+        "category": "Base pkg",
+        "host": "MediaFire",
+        "url": "https://www.mediafire.com/file/qyi487cbr4dqyfq/[DLPSGAME.COM]-UP2047-CUSA10216_00-AGONY666AMERICAS-A0100-V0100.pkg/file"
+      },
+      {
+        "category": "Update 1.07",
+        "host": "MediaFire",
+        "url": "https://www.mediafire.com/file/0r24d6b9oqw4mwr/[DLPSGAME.COM]-UP2047-CUSA10216_00-AGONY666AMERICAS-A0107-V0100-CyB1K.pkg/file"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "Inglês"
+      ],
+      "text": [
+        "Inglês"
+      ]
+    },
+    "cusa": "CUSA10216",
+    "version": "1.07"
   }
 ]
