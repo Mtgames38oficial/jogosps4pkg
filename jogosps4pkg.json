@@ -9220,15 +9220,12 @@
     }
   },
   {
-    "title": "Cartoon Network Racing PS2 – PS4 Ported",
+    "title": "Cartoon Network Racing PS2 – PS",
     "page_url": "https://www.superpsx.com/cartoon-network-racing-ps2-ps4-port/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Cartoon-Network-Racing.jpg",
-    "trailer": "",
+    "cover_image": "https://4.bp.blogspot.com/-Hh1f2c6MKRg/XENUUBoEqHI/AAAAAAAAY-s/W-hsoGlLexYZ1kVm_Lun0XUGyKCdmOsbACLcBGAs/s1600/11.jpg",
     "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
       "firmware": "N/A",
-      "description": " | Lançamento: October 10, 2006"
+      "description": "| Lançamento: October 10, 2006"
     },
     "downloads": [
       {
@@ -9237,7 +9234,6 @@
         "url": "https://www.superpsx.com/cartoon-network-racing-ps2-ps4-port/"
       }
     ],
-    "version": "PS4",
     "languages": {
       "audio": [
         "Inglês"
@@ -9245,7 +9241,9 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "cusa": "N informado",
+    "version": "para ps4"
   },
   {
     "title": "Castle Crashers Remastered PS4",
