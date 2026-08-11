@@ -18494,24 +18494,20 @@
     }
   },
   {
-    "title": "Enter the Matrix PS2 – PS4 Ported",
+    "title": "Enter the Matrix PS2 – PS4",
     "page_url": "https://www.superpsx.com/enter-the-matrix-ps2-ps4-port/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Enter-the-Matrix.jpg",
-    "trailer": "",
+    "cover_image": "https://4.bp.blogspot.com/-URzfNxyzp3k/XENXkKCU4KI/AAAAAAAAZIg/Wv9uJI5RQwwtrLRCwJr8oAGuFqmPa7UJQCLcBGAs/s1600/56.jpg",
     "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
       "firmware": "N/A",
-      "description": " | Lançamento: May 15, 2003"
+      "description": "| Lançamento: May 15, 2003"
     },
     "downloads": [
       {
         "category": "Game",
         "host": "AkiraBox",
-        "url": "https://www.superpsx.com/enter-the-matrix-ps2-ps4-port/"
+        "url": "https://akirabox.com/l5YzM49OR3yO/file"
       }
     ],
-    "version": "PS4",
     "languages": {
       "audio": [
         "Inglês"
@@ -18519,7 +18515,8 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "version": "PS4"
   },
   {
     "title": "Epic Chef PS4",
