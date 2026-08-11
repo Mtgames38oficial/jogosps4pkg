@@ -22229,7 +22229,7 @@
     "metadata": {
       "size": "70,78 GB",
       "firmware": "N/A",
-      "description": "Atenção para jogar online instale a versão 1.53 ou a 1.56 \n\n\nComandos MOD MENU\n\nL1 + Direita\n\nQuadrado + Esquerda\n\nL3 + R3 (pressione os dois analógicos)"
+      "description": "Atenção para jogar online instale a versão 1.53 ou a 1.56 \n\n\natenção o pack de mod menu so funciona nas verções 1.53 e 1.56\n\nComandos MOD MENU\n\nL1 + Direita\n\nQuadrado + Esquerda\n\nL3 + R3 (pressione os dois analógicos)"
     },
     "downloads": [
       {
@@ -22246,6 +22246,16 @@
         "category": "Pack Mod Menu opcional",
         "host": "MediaFire",
         "url": "https://www.mediafire.com/file/6g0qyrewy4y2pvb/Pack-mod_menu-gtav-on-off-Mtg380.pkg/file"
+      },
+      {
+        "category": "Game base 1.00",
+        "host": "VikingFile",
+        "url": "https://vikingfile.com/f/s5Xfn19F0F"
+      },
+      {
+        "category": "Update 1.57 (não funciona online)",
+        "host": "VikingFile",
+        "url": "https://vikingfile.com/f/7fqAeL3t33"
       }
     ],
     "languages": {
