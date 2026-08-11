@@ -17911,15 +17911,12 @@
     }
   },
   {
-    "title": "Ed, Edd, ‘n Eddy: The Mis-Edventures PS2 – PS4 Ported",
+    "title": "Ed, Edd e Eddy: As Desventuras PS2 - ps4",
     "page_url": "https://www.superpsx.com/ed-edd-n-eddy-the-mis-edventures-ps2-ps4-port/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Ed-Edd-N-Eddy-The-Mis-Edventures.jpg",
-    "trailer": "",
+    "cover_image": "https://3.bp.blogspot.com/-sNWBrR4tzgE/XENXjGZYjQI/AAAAAAAAZIU/IGY833aGNIYr4QjFJ943D9sLn4VT_8XHwCLcBGAs/s1600/53.jpg",
     "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
       "firmware": "N/A",
-      "description": " | Lançamento: November 3, 2005"
+      "description": "| Lançamento: November 3, 2005"
     },
     "downloads": [
       {
@@ -17928,7 +17925,6 @@
         "url": "https://www.superpsx.com/ed-edd-n-eddy-the-mis-edventures-ps2-ps4-port/"
       }
     ],
-    "version": "PS4",
     "languages": {
       "audio": [
         "Inglês"
@@ -17936,35 +17932,8 @@
       "text": [
         "Inglês"
       ]
-    }
-  },
-  {
-    "title": "Ed, Edd, ‘n Eddy: The Mis-Edventures PS2 – PS4 Ported_80",
-    "page_url": "https://www.superpsx.com/ed-edd-n-eddy-the-mis-edventures-ps2-ps4-port/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Ed-Edd-N-Eddy-The-Mis-Edventures.jpg",
-    "trailer": "",
-    "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
-      "firmware": "N/A",
-      "description": " | Lançamento: November 3, 2005"
     },
-    "downloads": [
-      {
-        "category": "Game",
-        "host": "AkiraBox",
-        "url": "https://www.superpsx.com/ed-edd-n-eddy-the-mis-edventures-ps2-ps4-port/"
-      }
-    ],
-    "version": "PS4",
-    "languages": {
-      "audio": [
-        "Inglês"
-      ],
-      "text": [
-        "Inglês"
-      ]
-    }
+    "version": "PS4"
   },
   {
     "title": "Edge of Eternity PS4",
