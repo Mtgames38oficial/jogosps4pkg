@@ -23393,41 +23393,49 @@
   {
     "title": "God of War PS4",
     "page_url": "https://akirabox.com/b5OzdJVaymB8/file",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/09/God-of-War-PS4-PKG.webp",
-    "trailer": "",
+    "cover_image": "https://1.bp.blogspot.com/-bIeiq3rGTwQ/Wwz5qfXRsMI/AAAAAAAALCM/_I2M4KW91NAETR9wUC24I0_C9MeQydc7QCLcBGAs/s1600/13.jpg",
     "metadata": {
-      "version": "God of War",
-      "update": "v1.00",
+      "size": "39,12 GB",
       "firmware": "N/A",
-      "description": "God of War | Gênero: Action-Adventure | Modo: Single Player | Lançamento: April 20, 2018",
-      "size": "39,12 GB"
+      "description": "God of War | Gênero: Action-Adventure | Modo: Single Player | Lançamento: April 20, 2018"
     },
     "downloads": [
       {
         "category": "Game",
         "host": "AkiraBox",
-        "url": "https://akirabox.com/b5OzdJVaymB8/file"
+        "url": "https://akirabox.com/M2BGw2PMzj40/file"
       },
       {
         "category": "Update v1.35",
         "host": "AkiraBox",
-        "url": "https://akirabox.com/QN9mEa7wLm6d/file"
+        "url": "https://akirabox.com/vgKGx2X438Qn/file"
       },
       {
-        "category": "DLC: DLC",
+        "category": "DLCs (em .rar)",
         "host": "AkiraBox",
-        "url": "https://akirabox.com/jar3XZ7EYG2d/file"
+        "url": "https://akirabox.com/2WVGr2dEGkx7/file"
       }
     ],
-    "version": "God of War",
     "languages": {
       "audio": [
-        "Inglês"
+        "inglês",
+        "francês",
+        "português",
+        "(Brasil)",
+        "espanhol",
+        "(México)"
       ],
       "text": [
-        "Inglês"
+        "inglês",
+        "francês",
+        "português",
+        "(Brasil)",
+        "espanhol",
+        "(México)"
       ]
-    }
+    },
+    "cusa": "CUSA07408",
+    "version": "1.35"
   },
   {
     "title": "God of War Ragnarok PS4",
