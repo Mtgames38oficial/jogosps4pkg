@@ -10595,13 +10595,10 @@
   {
     "title": "Codename: Kids Next Door – Operation V.I.D.E.O.G.A.M.E PS2 – PS4 Ported",
     "page_url": "https://www.superpsx.com/knd-operation-video-game-ps2-ps4-port/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Codename-Kids-Next-Door-Operation-VIDEOGAME.jpg",
-    "trailer": "",
+    "cover_image": "https://1.bp.blogspot.com/-QZwuYwKgWkI/XBpZ2HgFqYI/AAAAAAAAMEc/uXVrqp4D_5UrrR3mDDiBepwL6jiUApnnACLcBGAs/s1600/88.jpg",
     "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
       "firmware": "N/A",
-      "description": " | Lançamento: October 18, 2005"
+      "description": "| Lançamento: October 18, 2005"
     },
     "downloads": [
       {
@@ -10610,7 +10607,6 @@
         "url": "https://www.superpsx.com/knd-operation-video-game-ps2-ps4-port/"
       }
     ],
-    "version": "PS4",
     "languages": {
       "audio": [
         "Inglês"
@@ -10618,7 +10614,8 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "version": "PS4"
   },
   {
     "title": "Coffin Dodgers PS4",
