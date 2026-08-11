@@ -67620,30 +67620,44 @@
     "title": "Yet Another Zombie Defense HD PS4",
     "page_url": "https://www.superpsx.com/yet-another-zombie-defense-hd-ps4-fpkg/",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2023/02/Yet-Another-Zombie-Defense-HD-PS4-cover.webp",
-    "trailer": "",
     "metadata": {
-      "version": "Yet Another Zombie D",
-      "update": "v1.00",
-      "firmware": "N/A",
-      "description": "Yet Another Zombie Defense HD | Gênero: Action, Shooter, Strategy | Modo: Single-player, Multiplayer | Lançamento: March 20, 2021",
-      "size": "191 MB"
+      "size": "191 MB",
+      "description": "Yet Another Zombie Defense HD | Gênero: Action, Shooter, Strategy | Modo: Single-player, Multiplayer | Lançamento: March 20, 2021"
     },
     "downloads": [
       {
         "category": "Game",
-        "host": "AkiraBox",
-        "url": "https://www.superpsx.com/yet-another-zombie-defense-hd-ps4-fpkg/"
+        "host": "MediaFire",
+        "url": "http://www.mediafire.com/file/4zmwtwv3azholu8/Yet.Another.Zombie.Defense.HD.v1.00bp-CUSA18354.pkg/file"
+      },
+      {
+        "category": "fix obrigatorio",
+        "host": "MediaFire",
+        "url": "https://www.mediafire.com/file/6v13w2xcy9zbfh8/Yet.Another.Zombie.Defense.HD.PS4-UNLiMiTED.pkg/file"
       }
     ],
-    "version": "Yet Another Zombie D",
     "languages": {
       "audio": [
         "Inglês"
       ],
       "text": [
-        "Inglês"
+        "chinês",
+        "(simplificado)",
+        "inglês",
+        "francês",
+        "(França)",
+        "japonês",
+        "coreano",
+        "polonês",
+        "português",
+        "(Portugal)",
+        "russo",
+        "espanhol",
+        "turco"
       ]
-    }
+    },
+    "cusa": "CUSA18354",
+    "version": "Yet Another Zombie D"
   },
   {
     "title": "Yohane The Parhelion Blaze in The Deepblue PS4",
