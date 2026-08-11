@@ -23364,8 +23364,7 @@
       "mode": "Um jogador",
       "release_date": "14 de julho de 2015",
       "size": "40 GB",
-      "firmware": "1.02+",
-      "description": "Idioma (Voz) ⇛\tInglês, espanhol, italiano, francês, alemão, holandês, polonês, português, russo\n\n\nMenu e legendas ⇛\tInglês, espanhol, italiano, francês, alemão, holandês, polonês, português, russo, turco"
+      "firmware": "1.02+"
     },
     "downloads": [
       {
@@ -23379,16 +23378,32 @@
         "url": "https://akirabox.com/RMKGJOQwm1oP/file"
       }
     ],
-    "cusa": "CUSA01715",
-    "version": "God of War 3 Remaste",
     "languages": {
       "audio": [
-        "Inglês"
+        "Inglês",
+        "espanhol",
+        "italiano",
+        "francês",
+        "alemão",
+        "holandês",
+        "polonês",
+        "português",
+        "russo"
       ],
       "text": [
-        "Inglês"
+        "Inglês",
+        "espanhol",
+        "italiano",
+        "francês",
+        "alemão",
+        "holandês",
+        "polonês",
+        "português",
+        "russo",
+        "turco"
       ]
-    }
+    },
+    "cusa": "CUSA01715"
   },
   {
     "title": "God of War PS4",
