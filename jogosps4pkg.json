@@ -13576,40 +13576,48 @@
     "title": "Days Gone PS4",
     "page_url": "https://akirabox.com/gXeGO1kD63Aa/file",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2024/09/Days-Gone-PS4-PKG.webp",
-    "trailer": "",
     "metadata": {
-      "version": "Days Gone",
-      "update": "v1.81",
+      "size": "60,54 GB",
       "firmware": "1.81",
-      "description": "Days Gone | Gênero: Action-Adventure, Survival Horror | Modo: Single-player | Lançamento: April 26, 2019",
-      "size": "60,54 GB"
+      "description": "Days Gone | Gênero: Action-Adventure, Survival Horror | Modo: Single-player | Lançamento: April 26, 2019"
     },
     "downloads": [
       {
-        "category": "Game",
+        "category": "Game + Update 1.81 + Todos os DLCs",
         "host": "AkiraBox",
-        "url": "https://akirabox.com/gXeGO1kD63Aa/file"
+        "url": "https://akirabox.com/5pVzNWxoAG7w/file"
       },
       {
-        "category": "Update v1.81",
+        "category": "Update 1.81 + Todos os DLCs",
         "host": "AkiraBox",
-        "url": "https://akirabox.com/gXeGO1kD63Aa/file"
+        "url": "https://akirabox.com/gXeGOJ1oKzAa/file"
       },
       {
-        "category": "DLC: Game + Update v1.81 + All DLC",
+        "category": "Todos os DLCs",
         "host": "AkiraBox",
-        "url": "https://akirabox.com/gXeGO1kD63Aa/file"
+        "url": "https://akirabox.com/qLQ3661KP319/file"
       }
     ],
-    "version": "Days Gone",
     "languages": {
       "audio": [
-        "Inglês"
+        "inglês",
+        "francês",
+        "espanhol",
+        "latim",
+        "português",
+        "brasileiro"
       ],
       "text": [
-        "Inglês"
+        "inglês",
+        "francês",
+        "espanhol",
+        "latim",
+        "português",
+        "brasileiro"
       ]
-    }
+    },
+    "cusa": "CUSA08966",
+    "version": "1.81"
   },
   {
     "title": "De Blob 2 PS4",
