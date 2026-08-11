@@ -19640,15 +19640,12 @@
     }
   },
   {
-    "title": "Family Guy: The Video Game PS2 – PS4 Ported",
+    "title": "Family Guy: The Video Game PS2 – PS4",
     "page_url": "https://www.superpsx.com/family-guy-the-video-game-ps2-ps4-port/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Family-Guy-The-Video-Game.jpg",
-    "trailer": "",
+    "cover_image": "https://1.bp.blogspot.com/-3ijgTjDeFKs/XlTO9GHk6lI/AAAAAAAAZF8/1vrzV4dtLlcWMHqA9GmYMg7SU5dHgbGWQCLcBGAsYHQ/s1600/213.jpg",
     "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
       "firmware": "N/A",
-      "description": " | Lançamento: October 2, 2006"
+      "description": "| Lançamento: October 2, 2006"
     },
     "downloads": [
       {
@@ -19657,7 +19654,6 @@
         "url": "https://www.superpsx.com/family-guy-the-video-game-ps2-ps4-port/"
       }
     ],
-    "version": "PS4",
     "languages": {
       "audio": [
         "Inglês"
@@ -19665,7 +19661,8 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "version": "PS4"
   },
   {
     "title": "Fantasy Life i The Girl Who Steals Time Digital Deluxe Edition PS4",
