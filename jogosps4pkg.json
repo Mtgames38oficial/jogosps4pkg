@@ -68973,5 +68973,63 @@
     },
     "cusa": "SCES54206",
     "version": "N/A"
+  },
+  {
+    "title": "Call of Duty Modern Warfare PS4",
+    "cover_image": "https://1.bp.blogspot.com/-vblw8rUXuRo/Ykpu4d6ZAYI/AAAAAAAAJTU/3q-AySvAqBkb5F2yxATBvbRTkdLyNFJkACNcBGAsYHQ/s0/8.jpg",
+    "metadata": {
+      "size": "180 GB"
+    },
+    "downloads": [
+      {
+        "category": "Game",
+        "host": "1Fichier",
+        "url": "https://1fichier.com/?uzg0opehi0qirf9ijd2i"
+      },
+      {
+        "category": "Update 1.09",
+        "host": "1Fichier",
+        "url": "https://1fichier.com/?676hb8v5n27q3otfk9jg"
+      },
+      {
+        "category": "Pacote DLC de Operações Especiais",
+        "host": "1Fichier",
+        "url": "https://1fichier.com/?4mmkyfoof2ww17tfaff5"
+      },
+      {
+        "category": "Pacote DLC Special Ops 2",
+        "host": "1Fichier",
+        "url": "https://1fichier.com/?vbh4qh99uh97as32rabe"
+      },
+      {
+        "category": "Pacote de Sobrevivência DLC",
+        "host": "1Fichier",
+        "url": "https://1fichier.com/?jjxa2retucky62w65d3s"
+      },
+      {
+        "category": "Pacote Multijogador",
+        "host": "1Fichier",
+        "url": "https://1fichier.com/?5h1qqdehcrc3mm1yfyut"
+      },
+      {
+        "category": "DLC Campanha 1 + 2 [Correção de erro (tunnels.ff)",
+        "host": "filecrypt",
+        "url": "https://filecrypt.cc/Container/22471BF646.html"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "Portugues",
+        "do",
+        "Brasil"
+      ],
+      "text": [
+        "Portugues",
+        "do",
+        "Brasil"
+      ]
+    },
+    "cusa": "CUSA15240",
+    "version": "1.09"
   }
 ]
