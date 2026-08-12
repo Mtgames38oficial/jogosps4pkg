@@ -21953,22 +21953,18 @@
   {
     "title": "Futurama PS2 – PS4 Ported",
     "page_url": "https://www.superpsx.com/futurama-ps2-ps4-port/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Futurama.jpg",
-    "trailer": "",
+    "cover_image": "https://3.bp.blogspot.com/-TtX8GS43bF0/XEciFN9VPzI/AAAAAAAAZPQ/cE6oqjXvomM9cEbiFUVhBmEPayJD_gdpgCLcBGAs/s1600/43.jpg",
     "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
       "firmware": "N/A",
-      "description": " | Lançamento: August 1, 2003"
+      "description": "| Lançamento: August 1, 2003"
     },
     "downloads": [
       {
         "category": "Game",
-        "host": "AkiraBox",
-        "url": "https://www.superpsx.com/futurama-ps2-ps4-port/"
+        "host": "MediaFire",
+        "url": "https://www.mediafire.com/file/gqkgj4rkp005fuh/UP9000-SLES51507_00-SLES515070000001-A0100-V0100.pkg/file"
       }
     ],
-    "version": "PS4",
     "languages": {
       "audio": [
         "Inglês"
@@ -21976,7 +21972,9 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "cusa": "SLES51507",
+    "version": "PS4"
   },
   {
     "title": "Future Unfolding PS4",
