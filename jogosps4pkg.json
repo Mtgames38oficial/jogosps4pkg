@@ -23282,22 +23282,18 @@
   {
     "title": "God Hand PS2 – PS4 Ported",
     "page_url": "https://www.superpsx.com/god-hand-ps2-ps4-port/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/God-Hand.jpg",
-    "trailer": "",
+    "cover_image": "https://1.bp.blogspot.com/-ptYxGSrkzdY/XBpiUlCgKoI/AAAAAAAAMO4/YUOIdCLhTKk5v5tP7hVAM78vJpKquDOkwCLcBGAs/s1600/46.jpg",
     "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
       "firmware": "N/A",
-      "description": " | Lançamento: October 20, 2006"
+      "description": "| Lançamento: October 20, 2006"
     },
     "downloads": [
       {
         "category": "Game",
         "host": "AkiraBox",
-        "url": "https://www.superpsx.com/god-hand-ps2-ps4-port/"
+        "url": "https://akirabox.com/vgKGxQ1ZRm8Q/file"
       }
     ],
-    "version": "PS4",
     "languages": {
       "audio": [
         "Inglês"
@@ -23305,7 +23301,9 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "cusa": "SLES25536",
+    "version": "PS4"
   },
   {
     "title": "God Of War PS2 – PS4",
