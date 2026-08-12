@@ -68947,5 +68947,30 @@
     },
     "cusa": "CUSA16596",
     "version": "v1.61"
+  },
+  {
+    "title": "God of War II PS2-PS4",
+    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/06/God-of-War-II-PS2-PS4-Ported.jpg",
+    "metadata": {
+      "release_date": "27 de abril de 2007",
+      "size": "6.59 GB",
+      "firmware": "5.05 ou superior"
+    },
+    "downloads": [
+      {
+        "category": "Game",
+        "host": "AkiraBox",
+        "url": "https://akirabox.com/7d5GLl0DlGxR/file"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "Inglês"
+      ],
+      "text": [
+        "Inglês"
+      ]
+    },
+    "cusa": "SCES54206"
   }
 ]
