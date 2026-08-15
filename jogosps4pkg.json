@@ -24133,24 +24133,20 @@
     }
   },
   {
-    "title": "Grand Theft Auto: Liberty City Stories PS2 – PS4 Ported",
+    "title": "Grand Theft Auto: Liberty City Stories PS2",
     "page_url": "https://www.superpsx.com/gta-liberty-city-stories-ps2-ps4-port/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Liberty-City.jpg",
-    "trailer": "",
+    "cover_image": "https://2.bp.blogspot.com/-Hb0Y-vIq6Yg/XBpiYfSY8pI/AAAAAAAAMPo/HaiXrexaVGQ5--g19obqJN61T7zqA-z6ACLcBGAs/s1600/58.jpg",
     "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
       "firmware": "N/A",
-      "description": " | Lançamento: June 6, 2006"
+      "description": "| Lançamento: June 6, 2006"
     },
     "downloads": [
       {
         "category": "Game",
         "host": "AkiraBox",
-        "url": "https://www.superpsx.com/gta-liberty-city-stories-ps2-ps4-port/"
+        "url": "https://akirabox.com/2WVGr8AlM3kx/file"
       }
     ],
-    "version": "PS4",
     "languages": {
       "audio": [
         "Inglês"
@@ -24158,7 +24154,9 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "cusa": "SLUS21423",
+    "version": "PS4"
   },
   {
     "title": "Gravel PS4",
