@@ -69121,5 +69121,29 @@
     },
     "cusa": "SLES52570",
     "version": "1.00"
+  },
+  {
+    "title": "Armored Core 2 Another Age",
+    "cover_image": "https://1.bp.blogspot.com/-tSHd15Y0X8E/XlTOWhWQKNI/AAAAAAAAY_g/LEBbGpoTsK8xSBm8eTxxdx9G8DcKfPQdACLcBGAsYHQ/s320/12.jpg",
+    "metadata": {
+      "size": "3.55 GB"
+    },
+    "downloads": [
+      {
+        "category": "Game",
+        "host": "MediaFire",
+        "url": "https://www.mediafire.com/file/s8p4sg631ruigxn/[Downloadgameps3.com]PS2TOPS4-12.pkg/file"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "Inglês"
+      ],
+      "text": [
+        "Inglês"
+      ]
+    },
+    "cusa": "SLUS20249",
+    "version": "1.00"
   }
 ]
