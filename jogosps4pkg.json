@@ -69088,5 +69088,38 @@
     },
     "cusa": "CUSA06210",
     "version": "1.05"
+  },
+  {
+    "title": "Área 51 PS2 - PS4",
+    "cover_image": "https://1.bp.blogspot.com/-jMMB_b3MaBI/Yqr7mPioMPI/AAAAAAAAJ3w/v3kP2AfFrsomMqeoQwo_iM39GBURvX7YgCNcBGAsYHQ/s0/13.jpg",
+    "metadata": {
+      "size": "3.3 GB",
+      "description": "ota: Mais uma conversão experimental de PS2 para PS4. A maioria das lentidões, travamentos e falhas gráficas foram corrigidas! Os pontos negativos são que a introdução do jogo começa bem, mas apresenta problemas de sincronização no meio! Além disso, ao desligar a lanterna, é possível notar problemas com a névoa e o contorno branco. Algumas lentidões em certas áreas ainda podem ocorrer, mas o jogo agora está muito mais jogável! Funcionará melhor com o Modo Boost no PS4 Pro!"
+    },
+    "downloads": [
+      {
+        "category": "Game",
+        "host": "MediaFire",
+        "url": "https://www.mediafire.com/file/2eckdybhc6k3vxa/UP9000-SLES52570_00-SLES525700000001-A0100-V0100.pkg/file"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "inglês",
+        "francês",
+        "alemão",
+        "italiano",
+        "espanhol"
+      ],
+      "text": [
+        "inglês",
+        "francês",
+        "alemão",
+        "italiano",
+        "espanhol"
+      ]
+    },
+    "cusa": "SLES52570",
+    "version": "1.00"
   }
 ]
