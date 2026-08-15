@@ -23871,22 +23871,18 @@
   {
     "title": "Gran Turismo 3: A-Spec PS2 – PS4 Ported",
     "page_url": "https://www.superpsx.com/gran-turismo-3-a-spec-ps2-ps4-port/",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/04/Gran-Turismo-3.jpg",
-    "trailer": "",
+    "cover_image": "https://2.bp.blogspot.com/-nzOkPM7Mxx8/XBpiXVkzAyI/AAAAAAAAMPY/wtySZGNnPuoS8MveojAo-UfXkVmEvVaswCLcBGAs/s1600/55.jpg",
     "metadata": {
-      "version": "PS4",
-      "update": "v1.00",
-      "firmware": "N/A",
-      "description": " | Lançamento: July 10, 2001"
+      "size": "3.36 GB",
+      "description": "| Lançamento: July 10, 2001"
     },
     "downloads": [
       {
         "category": "Game",
         "host": "AkiraBox",
-        "url": "https://www.superpsx.com/gran-turismo-3-a-spec-ps2-ps4-port/"
+        "url": "https://akirabox.com/dZxG5qDPeGVj/file"
       }
     ],
-    "version": "PS4",
     "languages": {
       "audio": [
         "Inglês"
@@ -23894,7 +23890,9 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "cusa": "SCUS97102",
+    "version": "PS4"
   },
   {
     "title": "Gran Turismo 7 PS4",
