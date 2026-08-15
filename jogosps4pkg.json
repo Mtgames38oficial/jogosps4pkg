@@ -69043,5 +69043,52 @@
     },
     "cusa": "CUSA15240",
     "version": "1.09"
+  },
+  {
+    "title": "Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto",
+    "cover_image": "https://3.bp.blogspot.com/-lxzCzSGhbEs/WxkbURBTIoI/AAAAAAAAMRY/hQqy4lfYWXIeyMGliSJnuQRJlV8QynzLwCLcBGAs/s1600/5.jpg",
+    "metadata": {
+      "description": "– O jogo base completo NARUTO SHIPPUDEN: Ultimate Ninja STORM 4\n– O passe de temporada com seus 3 pacotes de DLC\n– A expansão Road to Boruto\n\nATENÇÂO: faça o download no seu celular ou pc extraia a base e a update que estao compactadas em rar."
+    },
+    "downloads": [
+      {
+        "category": "Game (em .rar)",
+        "host": "AkiraBox",
+        "url": "https://akirabox.com/l76mZR0bZman/file"
+      },
+      {
+        "category": "Update 1.02 (parte 1)",
+        "host": "MediaFire",
+        "url": "https://www.mediafire.com/file/8s55u552fovzi1v/hako-naruto.shippuden.ultimate.ninja.storm.4.road.to.boruto.upd.v1.02.ps4-prelude.part1.rar"
+      },
+      {
+        "category": "Update 1.02 (parte 2)",
+        "host": "MediaFire",
+        "url": "https://www.mediafire.com/file/edus6t792j20p5w/hako-naruto.shippuden.ultimate.ninja.storm.4.road.to.boruto.upd.v1.02.ps4-prelude.part2.rar"
+      },
+      {
+        "category": "Update 1.05 (parte unica em .rar)",
+        "host": "MediaFire",
+        "url": "https://www.mediafire.com/file/q129ivur25ocbox/Naruto.Shippuden.Ultimate.Ninja.Storm.4.Road.to.Boruto.Update.v1.05-CUSA06210.rar"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "Japanese",
+        "English"
+      ],
+      "text": [
+        "árabe",
+        "alemão",
+        "russo",
+        "inglês",
+        "italiano",
+        "francês",
+        "polonês",
+        "espanhol"
+      ]
+    },
+    "cusa": "CUSA06210",
+    "version": "1.05"
   }
 ]
