@@ -8772,30 +8772,42 @@
     "title": "Call of Duty Modern Warfare Remastered PS4",
     "page_url": "https://www.superpsx.com/modern-warfare-remastered-ps4-iso/",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2018/04/Call-of-Duty-Modern-Warfare-Remastered-PS4-PKG.webp",
-    "trailer": "",
     "metadata": {
-      "version": "Call of Duty Modern ",
-      "update": "v1.00",
+      "size": "72,92 GB",
       "firmware": "N/A",
-      "description": "Call of Duty Modern Warfare Remastered | Gênero: First-person shooter | Modo: Single-player, Multiplayer | Lançamento: November 4, 2016",
-      "size": "44,89 GB"
+      "description": "Testado e funcionando no PS4 Pro 11.00 e PS5 4.03."
     },
     "downloads": [
       {
-        "category": "Game",
+        "category": "Game + Update 1.15 + Pacote de Mapas Variados DLC",
         "host": "AkiraBox",
-        "url": "https://www.superpsx.com/modern-warfare-remastered-ps4-iso/"
+        "url": "https://akirabox.com/M2BGw6jEXzj4/file"
       }
     ],
-    "version": "Call of Duty Modern ",
     "languages": {
       "audio": [
-        "Inglês"
+        "(árabe",
+        "inglês",
+        "francês",
+        "italiano",
+        "alemão",
+        "espanhol",
+        "polonês",
+        "russo)."
       ],
       "text": [
-        "Inglês"
+        "(árabe",
+        "inglês",
+        "francês",
+        "italiano",
+        "alemão",
+        "espanhol",
+        "polonês",
+        "russo)."
       ]
-    }
+    },
+    "cusa": "CUSA03522",
+    "version": "1.00"
   },
   {
     "title": "Call of Duty WWII PS4",
