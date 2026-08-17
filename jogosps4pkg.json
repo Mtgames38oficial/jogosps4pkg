@@ -69184,10 +69184,28 @@
     ],
     "languages": {
       "audio": [
-        "Inglês"
+        "inglês",
+        "árabe",
+        "alemão",
+        "português",
+        "italiano",
+        "francês",
+        "e",
+        "espanhol."
       ],
       "text": [
-        "Inglês"
+        "inglês",
+        "alemão",
+        "árabe",
+        "russo",
+        "sueco",
+        "português",
+        "italiano",
+        "francês",
+        "espanhol",
+        "holandês",
+        "e",
+        "turco."
       ]
     },
     "cusa": "CUSA18740",
