@@ -69143,5 +69143,54 @@
     },
     "cusa": "SLUS20249",
     "version": "1.00"
+  },
+  {
+    "title": "EFootball PES 2021",
+    "cover_image": "https://1.bp.blogspot.com/--rTCsMki-_A/ZkRDApLxJDI/AAAAAAAAAA8/qFuDKy_35WIwo5apIerg48Ql4e8rYB0ogCNcBGAsYHQ/s0/2.jpg",
+    "metadata": {
+      "size": "40,00 GB"
+    },
+    "downloads": [
+      {
+        "category": "Game",
+        "host": "AkiraBox",
+        "url": "https://akirabox.com/obj3jvNZr3Dx/file"
+      },
+      {
+        "category": "Update 1.08 (7.50+)",
+        "host": "AkiraBox",
+        "url": "https://akirabox.com/M2BGwONoXGj4/file"
+      },
+      {
+        "category": "Game",
+        "host": "VikingFile",
+        "url": "https://vikingfile.com/f/QNZqeIlk5K"
+      },
+      {
+        "category": "Update 1.08 (7.50+)",
+        "host": "VikingFile",
+        "url": "https://vikingfile.com/f/JvofZ6xf2P"
+      },
+      {
+        "category": "Game",
+        "host": "RootZ",
+        "url": "https://www.rootz.so/d/UprKC"
+      },
+      {
+        "category": "Update 1.08 (7.50+)",
+        "host": "RootZ",
+        "url": "https://www.rootz.so/d/Mm9b6"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "Inglês"
+      ],
+      "text": [
+        "Inglês"
+      ]
+    },
+    "cusa": "CUSA18740",
+    "version": "1.08"
   }
 ]
