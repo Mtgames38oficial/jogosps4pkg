@@ -69248,5 +69248,41 @@
     },
     "cusa": "CUSA08252",
     "version": "1.08"
+  },
+  {
+    "title": "Pro Evolution Soccer 2018 [PES 2018]",
+    "cover_image": "https://4.bp.blogspot.com/-sZS4AZwSWm8/WxAvWJx8OxI/AAAAAAAALY0/fMdzC5PgJN4SoohLI5wcO-8tPifb4ZH7wCLcBGAs/s1600/14.jpg",
+    "downloads": [
+      {
+        "category": "Jogo (v1.05)",
+        "host": "AkiraBox",
+        "url": "https://akirabox.com/0rpmvqxQAGRg/file"
+      }
+    ],
+    "languages": {
+      "audio": [
+        "inglês",
+        "francês",
+        "alemão",
+        "espanhol",
+        "italiano",
+        "português."
+      ],
+      "text": [
+        "turco",
+        "inglês",
+        "francês",
+        "alemão",
+        "espanhol",
+        "italiano",
+        "russo",
+        "português",
+        "holandês",
+        "sueco",
+        "grego"
+      ]
+    },
+    "cusa": "CUSA08251",
+    "version": "1.05"
   }
 ]
