@@ -63640,10 +63640,16 @@
     ],
     "languages": {
       "audio": [
-        "Inglês"
+        "Eng",
+        "Fra",
+        "Spa/Lat",
+        "PTBR"
       ],
       "text": [
-        "Inglês"
+        "Eng",
+        "Fra",
+        "Spa/Lat",
+        "PTBR"
       ]
     },
     "cusa": "CUSA02320",
