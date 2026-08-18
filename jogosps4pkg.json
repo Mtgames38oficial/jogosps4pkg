@@ -63550,30 +63550,39 @@
     "title": "Uncharted 4 A Thiefs End PS4",
     "page_url": "https://akirabox.com/gXeGOV6NzAa7/file",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2018/03/Uncharted-4-A-Thiefs-End-PS4-PKG.webp",
-    "trailer": "",
     "metadata": {
-      "version": "Uncharted 4: A Thief",
-      "update": "v1.00",
-      "firmware": "N/A",
-      "description": "Uncharted 4: A Thief’s End | Gênero: Action-adventure | Modo: Single-player, Multiplayer | Lançamento: May 10, 2016",
-      "size": "54,02 GB"
+      "size": "58,00 GB",
+      "firmware": "5.05+",
+      "description": "Uncharted 4: A Thief’s End | Gênero: Action-adventure | Modo: Single-player, Multiplayer | Lançamento: May 10, 2016"
     },
     "downloads": [
       {
         "category": "Game",
         "host": "AkiraBox",
-        "url": "https://akirabox.com/gXeGOV6NzAa7/file"
+        "url": "https://akirabox.com/E9Qz9VA2GOL2/file"
+      },
+      {
+        "category": "Update 1.33",
+        "host": "AkiraBox",
+        "url": "https://akirabox.com/b5OzdNX9mB8L/file"
       }
     ],
-    "version": "Uncharted 4: A Thief",
     "languages": {
       "audio": [
-        "Inglês"
+        "Eng",
+        "Fra",
+        "Spa/Lat",
+        "PTBR"
       ],
       "text": [
-        "Inglês"
+        "Eng",
+        "Fra",
+        "Spa/Lat",
+        "PTBR"
       ]
-    }
+    },
+    "cusa": "CUSA00341",
+    "version": "1.33"
   },
   {
     "title": "Uncharted Drakes Fortune Remastered PS4",
