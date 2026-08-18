@@ -63617,13 +63617,9 @@
     "title": "Uncharted The Nathan Drake Collection PS4",
     "page_url": "https://akirabox.com/1RgzRByyozbp/file",
     "cover_image": "https://www.superpsx.com/wp-content/uploads/2025/02/Uncharted-The-Nathan-Drake-Collection-PS4-PKG.webp",
-    "trailer": "",
     "metadata": {
-      "version": "CUSA02320",
-      "update": "vCUSA02320",
-      "firmware": "N/A",
-      "description": "Uncharted The Nathan Drake Collection | Gênero: Action-Adventure | Modo: Single Player / Multiplayer | Lançamento: October 7, 2015",
-      "size": "41,91 GB"
+      "size": "45,00 GB",
+      "description": "Uncharted The Nathan Drake Collection | Gênero: Action-Adventure | Modo: Single Player / Multiplayer | Lançamento: October 7, 2015"
     },
     "downloads": [
       {
@@ -63632,17 +63628,16 @@
         "url": "https://akirabox.com/1RgzRByyozbp/file"
       },
       {
+        "category": "DLC",
+        "host": "AkiraBox",
+        "url": "https://akirabox.com/qLQ3617NYm19/file"
+      },
+      {
         "category": "Update v1.02",
         "host": "AkiraBox",
         "url": "https://akirabox.com/l5YzMEdK2zyO/file"
-      },
-      {
-        "category": "DLC: DLC",
-        "host": "AkiraBox",
-        "url": "https://akirabox.com/qLQ3617NYm19/file"
       }
     ],
-    "version": "CUSA02320",
     "languages": {
       "audio": [
         "Inglês"
@@ -63650,7 +63645,9 @@
       "text": [
         "Inglês"
       ]
-    }
+    },
+    "cusa": "CUSA02320",
+    "version": "v1.02"
   },
   {
     "title": "Under Night In Birth 2 SysCeles PS4",
