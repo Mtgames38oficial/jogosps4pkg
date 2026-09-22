@@ -69309,67 +69309,10 @@
   },
   {
     "title": "EA SPORTS FC 27",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/09/EA-SPORTS-FC-27-PS4-PKG.jpg",
-    "downloads": [
-      {
-        "category": "Game",
-        "host": "Mocha",
-        "url": "https://mocha.my/share/-4MzQF_SsHRJPT-MpDtxKgbHHWH_vmZS"
-      },
-      {
-        "category": "Update 1.03 (Fix 9.00+)",
-        "host": "Mocha",
-        "url": "https://mocha.my/share/5XJOO5l8sPmNFJ-zqLMEYnz4MhARkoSB"
-      },
-      {
-        "category": "Update 1.03 (Fix 5.05+)",
-        "host": "Mocha",
-        "url": "https://mocha.my/share/_-ZPpiejIchxzBcIaneEU4iQBdzm5_dT"
-      },
-      {
-        "category": "Correção de desbloqueio",
-        "host": "Mocha",
-        "url": "https://mocha.my/share/bwaPzJHJ4xHrE19XqTWIlV8zpk_TcZ76"
-      }
-    ],
-    "languages": {
-      "audio": [
-        "English",
-        "French",
-        "(France)"
-      ],
-      "text": [
-        "Arabic",
-        "Chinese",
-        "(Traditional)",
-        "Czech",
-        "Dutch",
-        "English",
-        "French",
-        "(France)",
-        "German",
-        "Italian",
-        "Korean",
-        "Norwegian",
-        "Polish",
-        "Portuguese",
-        "(Brazil)",
-        "Portuguese",
-        "(Portugal)",
-        "Russian",
-        "Spanish",
-        "Spanish",
-        "(Mexico)",
-        "Swedish",
-        "Turkish"
-      ]
+    "cover_image": "https://dlpsgame.com/wp-content/uploads/2026/09/1-vdx-1.jpg",
+    "metadata": {
+      "size": "63 GB"
     },
-    "cusa": "CUSA57220",
-    "version": "1.03"
-  },
-  {
-    "title": "EA SPORTS FC 27",
-    "cover_image": "https://www.superpsx.com/wp-content/uploads/2026/09/EA-SPORTS-FC-27-PS4-PKG.jpg",
     "downloads": [
       {
         "category": "Game",
@@ -69414,10 +69357,8 @@
         "Polish",
         "Portuguese",
         "(Brazil)",
-        "Portuguese",
         "(Portugal)",
         "Russian",
-        "Spanish",
         "Spanish",
         "(Mexico)",
         "Swedish",
